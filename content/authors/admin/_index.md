@@ -66,8 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Principal Investigators
 ---
 
 Since 2017 I am a tenure-track assistant professor in the Department of Mathematics and Systems Analysis at Aalto University. I received my PhD in mathematics in 2013 from Freie Universität Berlin under supervision of Christian Haase and Klaus Altmann. As a postdoctoral researcher I visited Max Planck Institute for Mathematics, Aalto Science Institute, Simons Institute for the Theory of Computing, MIT and Sorbonne University. 
