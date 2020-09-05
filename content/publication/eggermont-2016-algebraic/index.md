@@ -35,5 +35,5 @@ publishDate: '2020-08-30T20:28:49.762249Z'
 publication_types:
 - 2
 abstract: ''
-publication: '*Linear Algebra and its Applications*'
+publication: '*Linear Algebra and its Applications,* 508:62-80'
 ---

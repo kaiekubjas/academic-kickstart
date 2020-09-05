@@ -36,5 +36,5 @@ publishDate: '2020-08-30T20:28:49.665375Z'
 publication_types:
 - 2
 abstract: ''
-publication: '*SIAM Journal on Applied Algebra and Geometry*'
+publication: '*SIAM Journal on Applied Algebra and Geometry,* 1(1):200-221'
 ---

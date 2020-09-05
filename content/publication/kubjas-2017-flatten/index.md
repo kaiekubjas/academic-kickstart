@@ -35,5 +35,5 @@ publishDate: '2020-08-30T20:28:49.470549Z'
 publication_types:
 - 6
 abstract: ''
-publication: '*Homological and Computational Methods in Commutative Algebra*'
+publication: '*Homological and Computational Methods in Commutative Algebra,* editors A. Conca, J. Gubeladze and T. Römer, Springer INdAM series, volume 20, 141-162'
 ---

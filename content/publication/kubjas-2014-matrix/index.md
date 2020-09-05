@@ -34,5 +34,5 @@ publishDate: '2020-08-30T20:28:49.568153Z'
 publication_types:
 - 2
 abstract: ''
-publication: '*Journal of Algebraic Statistics*'
+publication: '*Journal of Algebraic Statistics,* 8(1):1-21'
 ---

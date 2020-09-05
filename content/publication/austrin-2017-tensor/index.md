@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2020-08-30T20:28:49.174432Z'
 publication_types:
-- 2
+- 1
 abstract: ''
-publication: '*arXiv preprint arXiv:1712.09630*'
+publication: '*10th Innovations in Theoretical Computer Science Conference (ITCS 2019),* 7:1-7:21'
 ---

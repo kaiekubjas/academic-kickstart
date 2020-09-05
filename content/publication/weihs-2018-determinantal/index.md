@@ -41,5 +41,5 @@ publishDate: '2020-08-30T20:28:49.272449Z'
 publication_types:
 - 2
 abstract: ''
-publication: '*Journal of Causal Inference*'
+publication: '*Journal of Causal Inference,* 6(1)'
 ---

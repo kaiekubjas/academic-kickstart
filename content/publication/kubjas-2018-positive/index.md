@@ -35,5 +35,5 @@ publishDate: '2020-08-30T20:28:49.373399Z'
 publication_types:
 - 2
 abstract: ''
-publication: '*Linear and Multilinear Algebra*'
+publication: '*Linear and Multilinear Algebra,* 66(10):1952-1974'
 ---

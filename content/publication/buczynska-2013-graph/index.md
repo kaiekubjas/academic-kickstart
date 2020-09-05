@@ -5,8 +5,8 @@ title: On the graph labellings arising from phylogenetics
 subtitle: ''
 summary: ''
 authors:
-- Weronika Buczy\ŉska
-- Jarosław Buczy\ŉski
+- Weronika Buczyńska
+- Jarosław Buczyński
 - Kaie Kubjas
 - Mateusz Michałek
 tags: []
@@ -36,5 +36,5 @@ publishDate: '2020-08-30T20:28:50.159295Z'
 publication_types:
 - 2
 abstract: ''
-publication: '*Open Mathematics*'
+publication: '*Open Mathematics,* 11(9):1577-1592'
 ---

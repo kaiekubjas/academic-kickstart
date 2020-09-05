@@ -33,5 +33,5 @@ publishDate: '2020-08-30T20:28:49.962393Z'
 publication_types:
 - 2
 abstract: ''
-publication: '*European Journal of Mathematics*'
+publication: '*European Journal of Mathematics,* 1(1):2-24'
 ---

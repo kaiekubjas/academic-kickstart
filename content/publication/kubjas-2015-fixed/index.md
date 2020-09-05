@@ -35,5 +35,5 @@ publishDate: '2020-08-30T20:28:49.862189Z'
 publication_types:
 - 2
 abstract: ''
-publication: '*The Annals of Statistics*'
+publication: '*The Annals of Statistics,* 43(1):422-461'
 ---

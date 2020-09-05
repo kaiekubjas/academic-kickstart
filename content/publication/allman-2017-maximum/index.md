@@ -16,7 +16,7 @@ authors:
 - Piotr Zwiernik
 tags: []
 categories: []
-date: '2017-01-01'
+date: '2019-01-01'
 lastmod: 2020-08-30T23:28:49+03:00
 featured: false
 draft: false
@@ -41,5 +41,5 @@ publishDate: '2020-08-30T20:28:48.979309Z'
 publication_types:
 - 2
 abstract: ''
-publication: '*Journal of Algebraic Statistics*'
+publication: '*Journal of Algebraic Statistics (Issue in honor of S. E. Fienberg),* 10(1), 51-84'
 ---
