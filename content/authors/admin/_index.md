@@ -66,11 +66,11 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Principal Investigator
 ---
 
-Since 2017 I am a tenure-track assistant professor in the Department of Mathematics and Systems Analysis at Aalto University. I received my PhD in mathematics in 2013 from Freie Universität Berlin under supervision of Christian Haase and Klaus Altmann. As a postdoctoral researcher I visited Max Planck Institute for Mathematics, Aalto Science Institute, Simons Institute for the Theory of Computing, MIT and Sorbonne University. 
+Since 2017 I am a tenure-track assistant professor in the [Department of Mathematics and Systems Analysis](https://math.aalto.fi/en/) at [Aalto University](https://www.aalto.fi/en). I received my PhD in mathematics in 2013 from Freie Universität Berlin under supervision of [Christian Haase](http://www.mi.fu-berlin.de/math/groups/ag-diskret-algebra-geom/index.html) and [Klaus Altmann](http://www.math.fu-berlin.de/altmann/). As a postdoctoral researcher I visited Max Planck Institute for Mathematics, Aalto Science Institute, Simons Institute for the Theory of Computing, Institute of Data, Systems and Society at MIT and PolSys Team at Sorbonne University. 
 
-I work in the field of applied algebraic geometry. I am particularly interested in algebraic statistics and applications in biology, for example in phylogenetics and 3D genome reconstruction. I am also interested in different problems related to matrices and tensors, e.g. nonnegative rank, positive semidefinite rank and low-rank matrix/tensor completion. Besides algebraic geometry, I like to use tools from combinatorics, polyhedral geometry and convex optimization.
+I work in the field of applied nonlinear algebra. I am particularly interested in algebraic statistics and applications in biology, for example in phylogenetics and 3D genome reconstruction. I am also interested in questions about matrix and tensor decompositions, e.g. nonnegative and positive semidefinite factorizations, and low-rank matrix/tensor completion. Besides nonlinear algebra, I like to use tools from combinatorics, polyhedral geometry and convex optimization.
 
-Thanks to Academy of Finland for funding my research through project funding for early-career researchers!
+[Academy of Finland](https://www.aka.fi/en/) is funding my research through project funding for early-career researchers.
