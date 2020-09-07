@@ -14,6 +14,7 @@ featured: false
 draft: false
 url_pdf: "https://arxiv.org/abs/1007.3164"
 doi: "http://dx.doi.org/10.18409/jas.v3i1.16"
+url_code: files/K3par_program.txt
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

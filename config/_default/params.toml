@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "P.O. Box 11100", city = "Aalto", region = "", postcode = "FI-00076", country = "Finland", country_code = "FI"}
+address = {university = "Aalto University", department = "Department of Mathematics and Systems Analysis", street = "P.O. Box 11100", city = "Aalto", region = "", postcode = "FI-00076", country = "Finland", country_code = "FI"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -141,7 +141,7 @@ date_format = "Jan 2, 2006"
 time_format = "3:04 PM"
 
 # Address format (en-us, en-gb, de, fr-fr, zh).
-address_format = "en-us"
+address_format = "de"
 
 ############################
 ## Advanced

@@ -1,0 +1,319 @@
+use application 'polytope';
+
+# Find the number of lattice points for the 3-leaf tree.
+use vars '$s', '$t', '$B', '$m', '$sm', '$ineq';
+use vars '$fix', '$i', '$j', '$k', '$l','$eq', '$a', '$point', '$counter', '@points';
+
+# Define the polytope associated to the Kimura 3-parameter model on the 3-leaf tree.
+$s=new Polytope<Rational>(POINTS=><<".");
+1 1 0 0 0 1 0 0 0 1 0 0 0
+1 1 0 0 0 0 1 0 0 0 1 0 0
+1 0 1 0 0 1 0 0 0 0 1 0 0
+1 0 1 0 0 0 1 0 0 1 0 0 0
+1 1 0 0 0 0 0 1 0 0 0 1 0
+1 0 0 1 0 1 0 0 0 0 0 1 0
+1 0 0 1 0 0 0 1 0 1 0 0 0
+1 1 0 0 0 0 0 0 1 0 0 0 1
+1 0 0 0 1 1 0 0 0 0 0 0 1
+1 0 0 0 1 0 0 0 1 1 0 0 0
+1 0 0 1 0 0 1 0 0 0 0 0 1
+1 0 0 1 0 0 0 0 1 0 1 0 0
+1 0 1 0 0 0 0 0 1 0 0 1 0
+1 0 1 0 0 0 0 1 0 0 0 0 1
+1 0 0 0 1 0 0 1 0 0 1 0 0
+1 0 0 0 1 0 1 0 0 0 0 1 0 
+.
+# Apply the vertex lattice normalization to $s.
+$t=vertex_lattice_normalization($s);
+# Basis transformation matrix taking vertices of $s to vertices of $t. 
+$B=new Matrix<Rational>(<<".");
+1 -3 -3 -2 -2 -1 -1 -3 -1 0 
+0 3/4 3/2 1/2 1 1/4 1/2 3/2 1/2 0 
+0 3/4 1/2 1/2 1 1/4 1/2 1/2 0 0 
+0 3/4 1/2 1/2 0 1/4 1/2 1/2 1/2 -1/2 
+0 3/4 1/2 1/2 0 1/4 -1/2 1/2 0 1/2 
+0 3/2 3/4 1 1/2 1/2 1/4 0 0 0 
+0 1/2 3/4 1 1/2 1/2 1/4 1 1/2 0 
+0 1/2 3/4 0 1/2 1/2 1/4 1 0 1/2 
+0 1/2 3/4 0 1/2 -1/2 1/4 1 1/2 -1/2 
+0 3/4 3/4 1/2 1/2 1/4 1/4 3/2 1/2 0 
+0 3/4 3/4 1/2 1/2 1/4 1/4 1/2 0 0 
+0 3/4 3/4 1/2 1/2 1/4 1/4 1/2 1/2 -1/2 
+0 3/4 3/4 1/2 1/2 1/4 1/4 1/2 0 1/2 
+.
+
+# Matrix $m for multiplying the vertices of $s by 3.
+$m=new Matrix<Rational>(<<".");
+1 0 0 0 0 0 0 0 0 0 0 0 0 
+0 3 0 0 0 0 0 0 0 0 0 0 0 
+0 0 3 0 0 0 0 0 0 0 0 0 0 
+0 0 0 3 0 0 0 0 0 0 0 0 0 
+0 0 0 0 3 0 0 0 0 0 0 0 0 
+0 0 0 0 0 3 0 0 0 0 0 0 0 
+0 0 0 0 0 0 3 0 0 0 0 0 0 
+0 0 0 0 0 0 0 3 0 0 0 0 0 
+0 0 0 0 0 0 0 0 3 0 0 0 0 
+0 0 0 0 0 0 0 0 0 3 0 0 0 
+0 0 0 0 0 0 0 0 0 0 3 0 0 
+0 0 0 0 0 0 0 0 0 0 0 3 0 
+0 0 0 0 0 0 0 0 0 0 0 0 3       
+.
+# Define the polytope $sm as the convex hull of the vertices of $s multiplied by 3.
+$sm=new Polytope<Rational>(VERTICES=>($s->VERTICES)*$m);
+# $ineq contains facet inequalities for $sm.
+$ineq=($sm->FACETS);
+
+# Loop that finds the number of lattice points for the polytope 3*$s with the first 4 coordinates fixed. 
+$counter=0;
+# The 2nd to 5th coordinate of $sm can take integer values 
+# from 0 to 3, which sum up to 3.
+for $i (0...3){
+for $j (0...(3-$i)){
+for $k (0...(3-$i-$j)){
+$l=3-$i-$j-$k;
+# Matrix $fix for equalities that fix 2nd to 5th coordinate.
+$fix=new Matrix<Rational>(<<"."); 
+-$i 1 0 0 0 0 0 0 0 0 0 0 0 
+-$j 0 1 0 0 0 0 0 0 0 0 0 0 
+-$k 0 0 1 0 0 0 0 0 0 0 0 0
+-$l 0 0 0 1 0 0 0 0 0 0 0 0 
+.
+
+# Define a new set of equalities by taking the affine hull of $sm and $fix.
+$eq=($sm->AFFINE_HULL)/$fix;
+# Define a new polytope $a using the new set of equalities $eq and the inequalities of $sm.
+$a=new Polytope<Rational>(INEQUALITIES=>$ineq,EQUATIONS=>$eq);
+# Apply the basis transformation matrix to $a and count lattice points.
+$a=new Polytope<Rational>(POINTS=>($a->VERTICES)*$B);
+$point=($a->N_LATTICE_POINTS);
+# Remember all the results in the array $points.
+$points[$counter]=$point;
+$counter++;
+}
+}
+}
+
+
+#Find the number of lattice points for 4-leaf tree.
+use vars '$p', '$r', '$A', '$m', '$pm', '$ineq';
+use vars '$i', '$j', '$k', '$l', '$w', '$x', '$y', '$z', '$e', '$f', '$g', '$h';
+use vars '$fix', '$eq', '$a', '$point', '$sum1', '$sum2';
+use vars '$counter1', '$counter2', '@points1', '@points2';
+
+# Define the polytope of the Kimura 3-parameter model on the 4-leaf tree.
+$p=new Polytope<Rational>(POINTS=><<".");
+1 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0
+1 1 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0
+1 1 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0
+1 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1
+1 1 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0 0 1 0
+1 1 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0 1 0 0 0
+1 1 0 0 0 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 1
+1 1 0 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 1 0 0
+1 1 0 0 0 0 1 0 0 0 1 0 0 1 0 0 0 0 1 0 0
+1 1 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 0 1
+1 1 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 1 0 0 0
+1 1 0 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 1 0
+1 1 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 1
+1 1 0 0 0 0 0 0 1 0 0 0 1 0 0 1 0 0 1 0 0
+1 1 0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0 1 0
+1 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 1 0 0 0
+1 0 0 1 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 1 0
+1 0 0 1 0 1 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0
+1 0 0 1 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 1
+1 0 0 1 0 1 0 0 0 0 0 1 0 0 0 0 1 0 1 0 0
+1 0 0 1 0 0 0 1 0 1 0 0 0 1 0 0 0 1 0 0 0
+1 0 0 1 0 0 0 1 0 1 0 0 0 0 0 1 0 0 0 1 0
+1 0 0 1 0 0 0 1 0 1 0 0 0 0 1 0 0 0 1 0 0
+1 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 1 0 0 0 1
+1 0 0 1 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 1
+1 0 0 1 0 0 1 0 0 0 0 0 1 0 0 1 0 0 1 0 0
+1 0 0 1 0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 1 0
+1 0 0 1 0 0 1 0 0 0 0 0 1 0 0 0 1 1 0 0 0
+1 0 0 1 0 0 0 0 1 0 1 0 0 1 0 0 0 0 1 0 0
+1 0 0 1 0 0 0 0 1 0 1 0 0 0 0 1 0 0 0 0 1
+1 0 0 1 0 0 0 0 1 0 1 0 0 0 1 0 0 1 0 0 0
+1 0 0 1 0 0 0 0 1 0 1 0 0 0 0 0 1 0 0 1 0
+1 0 1 0 0 1 0 0 0 0 1 0 0 1 0 0 0 0 1 0 0
+1 0 1 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1
+1 0 1 0 0 1 0 0 0 0 1 0 0 0 1 0 0 1 0 0 0
+1 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0
+1 0 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 1
+1 0 1 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 1 0 0
+1 0 1 0 0 0 0 1 0 0 0 0 1 0 1 0 0 0 0 1 0
+1 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 1 0 0 0
+1 0 1 0 0 0 1 0 0 1 0 0 0 1 0 0 0 1 0 0 0
+1 0 1 0 0 0 1 0 0 1 0 0 0 0 0 1 0 0 0 1 0
+1 0 1 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 1 0 0
+1 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 0 0 1
+1 0 1 0 0 0 0 0 1 0 0 1 0 1 0 0 0 0 0 1 0
+1 0 1 0 0 0 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0
+1 0 1 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 0 0 1
+1 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 1 0 0
+1 0 0 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1
+1 0 0 0 1 1 0 0 0 0 0 0 1 0 0 1 0 0 1 0 0
+1 0 0 0 1 1 0 0 0 0 0 0 1 0 1 0 0 0 0 1 0
+1 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0
+1 0 0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 1 0 0
+1 0 0 0 1 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 1
+1 0 0 0 1 0 0 1 0 0 1 0 0 0 1 0 0 1 0 0 0
+1 0 0 0 1 0 0 1 0 0 1 0 0 0 0 0 1 0 0 1 0
+1 0 0 0 1 0 1 0 0 0 0 1 0 1 0 0 0 0 0 1 0
+1 0 0 0 1 0 1 0 0 0 0 1 0 0 0 1 0 1 0 0 0
+1 0 0 0 1 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 1
+1 0 0 0 1 0 1 0 0 0 0 1 0 0 0 0 1 0 1 0 0
+1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 0 0 0
+1 0 0 0 1 0 0 0 1 1 0 0 0 0 0 1 0 0 0 1 0
+1 0 0 0 1 0 0 0 1 1 0 0 0 0 1 0 0 0 1 0 0
+1 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 1
+.
+# Apply vertex lattice normalization to $p.
+$r=vertex_lattice_normalization($p);
+# Basis transformation matrix taking vertices of $p to vertices of $r.
+$A=new Matrix<Rational>(<<".");
+1 3 -1 0 3 1 -1 1 3 -3 -1 1 -1 -1 -1 -2 
+0 -3/4 1/4 0 -3/4 -1/4 1/4 -1/4 0 0 0 0 0 0 0 1/4 
+0 -3/4 1/4 0 -3/4 -1/4 1/4 -1/4 -1 1 1 0 0 0 1/2 3/4 
+0 -3/4 1/4 0 -3/4 -1/4 1/4 -1/4 -1 1 0 0 1/2 1/2 0 1/4 
+0 -3/4 1/4 0 -3/4 -1/4 1/4 -1/4 -1 1 0 -1 1/2 1/2 1/2 3/4 
+0 -3/4 1/4 0 0 -1/4 0 0 -3/4 0 1/4 -1/4 0 0 0 1/4 
+0 -3/4 1/4 0 -1 -1/4 1 0 -3/4 1 1/4 -1/4 0 0 1/2 3/4 
+0 -3/4 1/4 0 -1 -1/4 0 0 -3/4 1 1/4 -1/4 1/2 1/2 0 1/4 
+0 -3/4 1/4 0 -1 -1/4 0 -1 -3/4 1 1/4 -1/4 1/2 1/2 1/2 3/4 
+0 -3/4 1/4 0 -3/4 -1/4 1/4 -1/4 -3/4 3/2 1/4 -1/4 1/2 1/4 1/2 1/4 
+0 -3/4 1/4 0 -3/4 -1/4 1/4 -1/4 -3/4 1/2 1/4 -1/4 1/2 1/4 0 1/4 
+0 -3/4 1/4 0 -3/4 -1/4 1/4 -1/4 -3/4 1/2 1/4 -1/4 0 1/4 1/2 3/4 
+0 -3/4 1/4 0 -3/4 -1/4 1/4 -1/4 -3/4 1/2 1/4 -1/4 0 1/4 0 3/4 
+0 0 0 -3/4 -3/4 0 1/4 -1/4 -3/4 3/4 1/4 -1/4 1/4 1/4 1/4 1/4 
+0 -1 1 1/4 -3/4 0 1/4 -1/4 -3/4 3/4 1/4 -1/4 1/4 1/4 1/4 3/4 
+0 -1 0 1/4 -3/4 0 1/4 -1/4 -3/4 3/4 1/4 -1/4 1/4 3/4 1/4 3/4 
+0 -1 0 1/4 -3/4 -1 1/4 -1/4 -3/4 3/4 1/4 -1/4 1/4 -1/4 1/4 1/4 
+0 -3/4 1/4 3/4 -3/4 -1/4 1/4 -1/4 -3/4 3/4 1/4 -1/4 1/4 1/2 1/4 1 
+0 -3/4 1/4 -1/4 -3/4 -1/4 1/4 -1/4 -3/4 3/4 1/4 -1/4 1/4 1/2 1/4 1/2 
+0 -3/4 1/4 -1/4 -3/4 -1/4 1/4 -1/4 -3/4 3/4 1/4 -1/4 1/4 0 1/4 1/2 
+0 -3/4 1/4 -1/4 -3/4 -1/4 1/4 -1/4 -3/4 3/4 1/4 -1/4 1/4 0 1/4 0 
+.
+
+# Matrix $m for multiplying the vertices of $p by 3.
+$m=new Matrix<Rational>(<<".");
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3       
+.
+# Define the polytope $pm as the convex hull of the vertices of $p multiplied by 3.
+$pm=new Polytope<Rational>(VERTICES=>($p->VERTICES)*$m);
+# $ineq contains facet inequalities for $pm.
+$ineq=($pm->FACETS);
+ 
+# Loop that finds the number of lattice points for polytope
+# 3*$p with 14th to 21th coordinate fixed (corresponding to 2 
+# incident leaf edges) and with 14th to 17th coordinate fixed 
+# (corresponding to 1 leaf edge).
+$counter1=0;
+# The 14th to 21th coordinate of 3*$s can take integer values 
+# from 0 to 3, coordinates 14 to 17 sum up to 3 and 
+# coordinates 18 to 21 sum up to 3.
+for $i (0...3){
+for $j (0...(3-$i)){
+for $k (0...(3-$i-$j)){
+$sum1=0;
+$counter2=0;
+for $w (0...3){
+for $x (0...(3-$w)){
+for $y (0...(3-$w-$x)){
+# Loop that fixes 2nd to 5th coordinate corresponding to an
+# additional leaf edge to make computations faster. We find 
+# the number of lattice points separately for each possible 
+# integer fixation and then sum over all the values.
+$sum2=0;
+for $e (0...3){
+for $f (0...(3-$e)){
+for $g (0...(3-$e-$f)){
+$l=3-$i-$j-$k;
+$z=3-$w-$x-$y;
+$h=3-$e-$f-$g;
+# Matrix for equalities that fix coordinates under 
+# consideration.  
+$fix=new Matrix<Rational>(<<"."); 
+-$i 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+-$j 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+-$k 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+-$l 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+-$w 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+-$x 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+-$y 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+-$z 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+-$e 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+-$f 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+-$g 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+-$h 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+.
+# Define a new set of equalities by taking the affine hull of
+# $pm and $fix.
+$eq=($pm->AFFINE_HULL)/$fix;
+# Define a new polytope $a using the new set of equalities $eq and
+# the inequalities of $pm.
+$a=new Polytope<Rational>(INEQUALITIES=>$ineq,EQUATIONS=>$eq);
+# Apply the basis transformation matrix to $a and count 
+# lattice points.
+$a=new Polytope<Rational>(POINTS=>($a->VERTICES)*$A);
+$point=$a->N_LATTICE_POINTS;
+# Sum the number of lattice points over all possible integer 
+# values corresponding to the additional leaf edge.
+$sum2=$sum2+$point;
+}
+}
+}
+# Array @points2 holds the number of lattice points when 14th 
+# to 21st coordinate are fixed.
+$points2[($counter1*20)+$counter2]=$sum2;
+$sum1=$sum1+$sum2;
+$counter2++;
+}
+}
+}
+# Array @points1 holds the number of lattice points when 14th 
+# to 17th coordinate are fixed.
+$points1[$counter1]=$sum1;
+$counter1++;
+}
+}
+}
+
+use vars '$sum';
+
+# Finding the total number of lattice points by using the 
+# formulas (there are 20 possibilities for integer values
+# corresponding to one edge).
+$sum=0;
+for $i(0...19){
+for $j(0...19){
+$sum=$sum+($points2[($i*20)+$j]*$points[$i]*$points[$j]);
+}
+}
+print "Snowflake has $sum lattice points. \n \n";
+
+$sum=0;
+for $i(0...19){
+$sum=$sum+($points1[$i]*$points1[$i]);
+}
+print "3-caterpillar has $sum lattice points. \n";
+

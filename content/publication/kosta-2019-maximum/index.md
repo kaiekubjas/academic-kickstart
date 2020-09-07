@@ -35,5 +35,5 @@ publishDate: '2020-08-30T20:28:49.077649Z'
 publication_types:
 - 2
 abstract: ''
-publication: '*Bulletin of Mathematical Biology (Special Issue: Algebraic Methods in Phylogenetics),* 81(2), 337-360'
+publication: '*Bulletin of Mathematical Biology (Special Issue: Algebraic Methods in Phylogenetics),* 81(2):337-360'
 ---

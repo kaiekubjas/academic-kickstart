@@ -41,5 +41,5 @@ publishDate: '2020-08-30T20:28:48.979309Z'
 publication_types:
 - 2
 abstract: ''
-publication: '*Journal of Algebraic Statistics (Issue in honor of S. E. Fienberg),* 10(1), 51-84'
+publication: '*Journal of Algebraic Statistics (Issue in honor of S. E. Fienberg),* 10(1):51-84'
 ---
