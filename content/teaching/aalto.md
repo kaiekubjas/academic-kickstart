@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-- 2020/21 III period:      Computational Algebraic Geometry (MS-E1142)
+- 2020/21 III period:      [Computational Algebraic Geometry](https://mycourses.aalto.fi/course/view.php?id=29643) (MS-E1142)
 
 - 2020/21 I-II period:     [Algebraic Statistics](https://mycourses.aalto.fi/course/view.php?id=29652) (MS-E1621)
 
