@@ -14,8 +14,13 @@ date: '2018-01-01'
 lastmod: 2020-08-30T23:28:49+03:00
 featured: false
 draft: false
-url_pdf: "https://arxiv.org/abs/1512.08766"
+url_pdf: 
 doi: "http://dx.doi.org/10.1080/03081087.2017.1381664"
+
+
+links:
+- name: arXiv
+  url: "https://arxiv.org/abs/1512.08766"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

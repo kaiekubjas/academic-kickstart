@@ -14,8 +14,12 @@ date: '2015-01-01'
 lastmod: 2020-08-30T23:28:49+03:00
 featured: false
 draft: false
-url_pdf: "https://arxiv.org/abs/1312.5634"
+url_pdf: 
 doi: "10.1214/14-AOS1282"
+
+links:
+- name: arXiv
+  url: "https://arxiv.org/abs/1312.5634"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

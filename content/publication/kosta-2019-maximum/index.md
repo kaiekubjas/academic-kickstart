@@ -14,8 +14,14 @@ date: '2019-01-01'
 lastmod: 2020-08-30T23:28:49+03:00
 featured: false
 draft: false
-url_pdf: "https://arxiv.org/abs/1705.09228"
+url_pdf: 
 doi: "10.1007/s11538-018-0523-2"
+url_code: "https://github.com/kaiekubjas/phylogenetics"
+
+
+links:
+- name: arXiv
+  url: "https://arxiv.org/abs/1705.09228"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

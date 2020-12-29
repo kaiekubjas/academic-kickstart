@@ -8,6 +8,7 @@ authors:
 - Elias Tsigaridas
 date: 2020-10-29
 doi: ""
+url_code: "https://github.com/kaiekubjas/exact-solutions-in-low-rank-approximation-with-zeros"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-11-02T21:23:12+02:00
@@ -39,7 +40,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://arxiv.org/abs/2010.15636"
+url_pdf: 
 url_code: "https://github.com/kaiekubjas/exact-solutions-in-low-rank-approximation-with-zeros"
 url_dataset:
 url_poster:
@@ -47,6 +48,10 @@ url_project:
 url_slides:
 url_source:
 url_video:
+
+links:
+- name: arXiv
+  url: "https://arxiv.org/abs/2010.15636"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

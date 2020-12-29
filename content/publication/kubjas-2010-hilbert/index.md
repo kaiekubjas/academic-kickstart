@@ -12,9 +12,13 @@ date: '2012-01-01'
 lastmod: 2020-08-30T23:28:50+03:00
 featured: false
 draft: false
-url_pdf: "https://arxiv.org/abs/1007.3164"
+url_pdf: 
 doi: "http://dx.doi.org/10.18409/jas.v3i1.16"
 url_code: files/K3par_program.txt
+
+links:
+- name: arXiv
+  url: "https://arxiv.org/abs/1007.3164"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -10,11 +10,15 @@ authors:
 - Kaie Kubjas
 tags: []
 categories: []
-date: '2020-01-01'
+date: '2020-05-14'
 lastmod: 2020-08-30T23:28:48+03:00
 featured: false
 draft: false
-url_pdf: "https://arxiv.org/abs/2005.07171"
+url_pdf: 
+
+links:
+- name: arXiv
+  url: "https://arxiv.org/abs/2005.07171"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

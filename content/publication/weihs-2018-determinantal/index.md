@@ -20,8 +20,12 @@ date: '2018-01-01'
 lastmod: 2020-08-30T23:28:49+03:00
 featured: false
 draft: false
-url_pdf: "https://arxiv.org/abs/1702.03884"
+url_pdf: 
 doi: "https://doi.org/10.1515/jci-2017-0009"
+
+links:
+- name: arXiv
+  url: "https://arxiv.org/abs/1702.03884"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

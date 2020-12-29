@@ -13,11 +13,16 @@ authors:
 - Miruna-Stefana Sorea
 tags: []
 categories: []
-date: '2020-01-01'
+date: '2020-03-10'
 lastmod: 2020-08-30T23:28:48+03:00
 featured: false
 draft: false
-url_pdf: "https://arxiv.org/abs/2003.04840"
+url_pdf: 
+url_code: "https://github.com/agrosdos/Computing-the-Exact-LogConcave-MLE"
+
+links:
+- name: arXiv
+  url: "https://arxiv.org/abs/2003.04840"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
