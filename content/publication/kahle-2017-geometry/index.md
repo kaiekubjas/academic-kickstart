@@ -39,6 +39,9 @@ projects: []
 publishDate: '2020-08-30T20:28:49.665375Z'
 publication_types:
 - 2
-abstract: ''
+abstract: 'The geometry of the set of restrictions of rank-one tensors to some of their coordinates is studied. This gives insight into the problem of rank-one completion of partial tensors. Particular emphasis is put on the semialgebraic nature of the problem, which arises for real tensors with constraints on the parameters. The algebraic boundary of the completable region is described for tensors parametrized by probability distributions and where the number of observed entries equals the number of parameters. If the observations are on the diagonal of a tensor of format $d\times\dots\times d$, the complete semialgebraic description of the completable region is found.
+
+
+Read More: https://epubs.siam.org/doi/10.1137/16M1074102'
 publication: '*SIAM Journal on Applied Algebra and Geometry,* 1(1):200-221'
 ---

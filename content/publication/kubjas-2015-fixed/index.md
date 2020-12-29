@@ -38,6 +38,6 @@ projects: []
 publishDate: '2020-08-30T20:28:49.862189Z'
 publication_types:
 - 2
-abstract: ''
+abstract: 'Mixtures of $r$ independent distributions for two discrete random variables can be represented by matrices of nonnegative rank $r$. Likelihood inference for the model of such joint distributions leads to problems in real algebraic geometry that are addressed here for the first time. We characterize the set of fixed points of the Expectation–Maximization algorithm, and we study the boundary of the space of matrices with nonnegative rank at most $3$. Both of these sets correspond to algebraic varieties with many irreducible components.'
 publication: '*The Annals of Statistics,* 43(1):422-461'
 ---

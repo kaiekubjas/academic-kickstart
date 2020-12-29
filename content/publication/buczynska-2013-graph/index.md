@@ -39,6 +39,6 @@ projects: []
 publishDate: '2020-08-30T20:28:50.159295Z'
 publication_types:
 - 2
-abstract: ''
+abstract: 'We study semigroups of labellings associated to a graph. These generalise the Jukes-Cantor model and phylogenetic toric varieties defined in [Buczyńska W., Phylogenetic toric varieties on graphs, J. Algebraic Combin., 2012, 35(3), 421–460]. Our main theorem bounds the degree of the generators of the semigroup by $g + 1$ when the graph has first Betti number $g$. Also, we provide a series of examples where the bound is sharp.'
 publication: '*Open Mathematics,* 11(9):1577-1592'
 ---

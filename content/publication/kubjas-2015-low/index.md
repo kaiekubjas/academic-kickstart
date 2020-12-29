@@ -36,6 +36,6 @@ projects: []
 publishDate: '2020-08-30T20:28:49.962393Z'
 publication_types:
 - 2
-abstract: ''
+abstract: 'The phylogenetic semigroup on a graph is a set of edge labelings of the graph by non-negative integers. It generalizes the Jukes–Cantor binary model on trees. Minimal generating sets of phylogenetic semigroups have been described for trivalent trees by Buczyńska and Wiśniewski, and for trivalent graphs with first Betti number 1 by Buczyńska. We characterize the degree two minimal generators of the phylogenetic semigroup on any trivalent graph. Moreover, for any graph with first Betti number 1 and for any trivalent graph with first Betti number 2 we describe the minimal generating set of its phylogenetic semigroup.'
 publication: '*European Journal of Mathematics,* 1(1):2-24'
 ---

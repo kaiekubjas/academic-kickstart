@@ -39,6 +39,6 @@ projects: []
 publishDate: '2020-08-30T20:28:49.762249Z'
 publication_types:
 - 2
-abstract: ''
+abstract: 'Understanding the boundary of the set of matrices of nonnegative rank at most $r$ is important for applications in nonconvex optimization. The Zariski closure of the boundary of the set of matrices of nonnegative rank at most $3$ is reducible. We give a minimal generating set for the ideal of each irreducible component. In fact, this generating set is a Gröbner basis with respect to the graded reverse lexicographic order. This solves a conjecture by Robeva, Sturmfels and the last author.'
 publication: '*Linear Algebra and its Applications,* 508:62-80'
 ---

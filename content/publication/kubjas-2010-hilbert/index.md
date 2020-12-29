@@ -37,6 +37,6 @@ projects: []
 publishDate: '2020-08-30T20:28:50.257178Z'
 publication_types:
 - 2
-abstract: ''
+abstract: 'Buczyńska and Wiśniewski showed that the Hilbert polynomial of the algebraic variety associated to the Jukes-Cantor binary model on a trivalent tree depends only on the number of leaves of the tree and not on its shape. We ask if this can be generalized to other group-based models. The Jukes-Cantor binary model has $\mathbb{Z}_2$ as the underlying group. We consider the Kimura 3-parameter model with $\mathbb{Z}_2 \times \mathbb{Z}_2$ as the underlying group. We show that the generalization of the statement about the Hilbert polynomials to the Kimura 3-parameter model is not possible as the Hilbert polynomial depends on the shape of a trivalent tree.'
 publication: '*Journal of Algebraic Statistics,* 3(1):64-69'
 ---

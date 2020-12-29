@@ -40,6 +40,6 @@ projects: []
 publishDate: '2020-08-30T20:28:49.077649Z'
 publication_types:
 - 2
-abstract: ''
+abstract: 'Phylogenetic models admit polynomial parametrization maps in terms of the root distribution and transition probabilities along the edges of the phylogenetic tree. For symmetric continuous-time group-based models, Matsen studied the polynomial inequalities that characterize the joint probabilities in the image of these parametrizations. We employ this description for maximum likelihood estimation via numerical algebraic geometry. In particular, we explore an example where the maximum likelihood estimate does not exist, which would be difficult to discover without using algebraic methods.'
 publication: '*Bulletin of Mathematical Biology (Special Issue: Algebraic Methods in Phylogenetics),* 81(2):337-360'
 ---

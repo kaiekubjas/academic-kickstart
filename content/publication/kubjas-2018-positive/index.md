@@ -39,6 +39,6 @@ projects: []
 publishDate: '2020-08-30T20:28:49.373399Z'
 publication_types:
 - 2
-abstract: ''
+abstract: 'The set of matrices of given positive semidefinite rank is semialgebraic. In this paper we study the geometry of this set, and in small cases we describe its boundary. For general values of positive semidefinite rank we provide a conjecture for the description of this boundary. Our proof techniques are geometric in nature and rely on nesting spectrahedra between polytopes.'
 publication: '*Linear and Multilinear Algebra,* 66(10):1952-1974'
 ---

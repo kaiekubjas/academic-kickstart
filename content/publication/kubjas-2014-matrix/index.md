@@ -37,6 +37,6 @@ projects: []
 publishDate: '2020-08-30T20:28:49.568153Z'
 publication_types:
 - 2
-abstract: ''
+abstract: 'We investigate the problem of completing partial matrices to rank-one matrices in the standard simplex $\Delta_{mn−1}$. The motivation for studying this problem comes from statistics: A lack of eligible completion can provide a falsification test for partial observations to come from the independence model. For each pattern of specified entries, we give equations and inequalities which are satisfied if and only if an eligible completion exists. We also describe the set of valid completions, and we optimize over this set. '
 publication: '*Journal of Algebraic Statistics,* 8(1):1-21'
 ---

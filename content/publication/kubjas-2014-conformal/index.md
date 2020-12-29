@@ -37,6 +37,6 @@ projects: []
 publishDate: '2020-08-30T20:28:50.061083Z'
 publication_types:
 - 2
-abstract: ''
+abstract: 'Work of Buczyńska, Wiśniewski, Sturmfels and Xu, and the second author has linked the group-based phylogenetic statistical model associated with the group $\mathbb{Z}/2\mathbb{Z}$ with the Wess-Zumino-Witten (WZW) model of conformal field theory associated to $\mathrm{SL}_2(\mathbb{C})$. In this article we explain how this connection can be generalized to establish a relationship between the phylogenetic statistical model for the cyclic group $\mathbb{Z}/m\mathbb{Z}$ and the WZW model for the special linear group $\mathrm{SL}_m(\mathbb{C}).$ We use this relationship to also show how a combinatorial device from representation theory, the Berenstein-Zelevinsky (BZ) triangles, correspond to elements in the affine semigroup algebra of the $\mathbb{Z}/3\mathbb{Z}$ phylogenetic statistical model.  '
 publication: '*Journal of Algebraic Combinatorics,* 40(3):861-886'
 ---
