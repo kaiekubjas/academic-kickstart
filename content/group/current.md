@@ -51,3 +51,4 @@ subtitle = ""
 +++
 
 - Aleksi Lahti, BSc student
+- Saku Myllymäki, BSc student
