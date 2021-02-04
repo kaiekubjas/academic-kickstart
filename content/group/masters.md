@@ -50,6 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-- Huanhuan Chen. Infinitesimally rigid factorizations of nonnegative rank four. 2019. (In Paris.)
+- Huanhuan Chen. Infinitesimally rigid factorizations of nonnegative rank four. 2019. (In Paris)
 - Mateo Rendon Jaramillo. An algebraic and combinatorial perspective on rank-one tensor completion. 2018.
-- Marc Härkönen. Holonomic least angle regression. 2017. (Co-advised with Camilla Hollanti and Tomonari Sei.)
+- Marc Härkönen. Holonomic least angle regression. 2017. (Co-advised with Camilla Hollanti and Tomonari Sei)

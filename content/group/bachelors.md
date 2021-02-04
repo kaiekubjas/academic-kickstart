@@ -50,6 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
+- Aleksi Lahti. Classifying critical points of Euclidean distance from real plane curves. 2021. (Coadvised with Luca Sodomaco)
 - Etna Lindy. Parameter estimation for phylogenetic group-based models in the probability and
 Fourier coordinates. 2020.
 - Aapo Pajala. Euclidean distance geometry and its applications in 3D genome reconstruction. 2020.

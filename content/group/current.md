@@ -50,5 +50,4 @@ subtitle = ""
  css_class = ""
 +++
 
-- Aleksi Lahti, BSc student
 - Saku Myllymäki, BSc student
