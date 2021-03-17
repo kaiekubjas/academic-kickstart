@@ -21,7 +21,7 @@ publishDate: 2021-01-07
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ''
+publication: 'arXiv preprint arXiv:2101.05336'
 publication_short: ""
 
 abstract: ""

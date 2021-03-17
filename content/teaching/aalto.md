@@ -50,6 +50,8 @@ subtitle = ""
  css_class = ""
 +++
 
+- 2020/21 IV-V period:      [Commutative Algebra Reading Course](https://mycourses.aalto.fi/course/view.php?id=30884) (MS-E1997)
+
 - 2020/21 III period:      [Computational Algebraic Geometry](https://mycourses.aalto.fi/course/view.php?id=29643) (MS-E1142)
 
 - 2020/21 I-II period:     [Algebraic Statistics](https://mycourses.aalto.fi/course/view.php?id=29652) (MS-E1621)
