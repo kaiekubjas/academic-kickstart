@@ -3,7 +3,7 @@
 
 title: "Uniqueness of nonnegative matrix factorizations by rigidity theory"
 subtitle: ""
-summary: "In the joint work with Robert Krone we study the uniqueness of nonnegative matrix factorizations using ideas from the rigidity theory. We give so far the strongest necessary condition for a nonnegative matrix factorization to be unique. *[Our article](https://epubs.siam.org/doi/abs/10.1137/19M1279472)* has been published in the SIAM Journal of Matrix Analysis and Applications."
+summary: "In the joint work with Robert Krone we study the uniqueness of nonnegative matrix factorizations using ideas from the rigidity theory. We give so far the strongest necessary condition for a nonnegative matrix factorization to be unique. [Our article](https://epubs.siam.org/doi/abs/10.1137/19M1279472) has been published in the SIAM Journal of Matrix Analysis and Applications."
 authors: []
 tags: []
 categories: []
