@@ -28,4 +28,4 @@ image:
 projects: []
 ---
 
-In the joint work with Carlos Améndola and Dimitra Kosta we study the maximum likelihood estimation problem for all 2-dimensional Gorenstein toric Fano varieties, we explore the reasons for the ML degree drop and we prove a result about the multiplicativity of ML degrees of codimension zero toric fiber products. This article appeared in the first volume of *[Algebraic Statistics](https://msp.org/astat/2020/11-1/index.xhtml)*. This first volume is numbered 11 to honour the past work of the algebraic statistics community.
+In the joint work with Robert Krone we study the uniqueness of nonnegative matrix factorizations using ideas from the rigidity theory. We give so far the strongest necessary condition for a nonnegative matrix factorization to be unique. [Our article](https://epubs.siam.org/doi/abs/10.1137/19M1279472) has been published in the *SIAM Journal of Matrix Analysis and Applications*.
