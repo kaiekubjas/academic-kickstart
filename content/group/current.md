@@ -50,6 +50,5 @@ subtitle = ""
  css_class = ""
 +++
 
-- Saku Myllymäki, BSc student
 - Inari Puhto, BSc student
 
