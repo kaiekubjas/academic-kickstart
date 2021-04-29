@@ -3,7 +3,7 @@
 
 title: "Distinguishing Level-2 Phylogenetic Networks Using Phylogenetic Invariants"
 subtitle: ""
-summary: "My PhD student Muhammad Ardiyansyah has just posted [his first single-authored paper on arXiv](https://arxiv.org/abs/2104.12479). In the paper, he studies the distinguishibility of simple and semisimple level-2 phylogenetic networks extending the earlier work on [large-cycle](https://arxiv.org/abs/1706.03060) and [level-1 networks](https://arxiv.org/abs/2007.08782). Congratulations, Ardi!"
+summary: "My PhD student [Muhammad Ardiyansyah](https://sites.google.com/view/muhammadardiyansyah/home) has just posted [his first single-authored paper on arXiv](https://arxiv.org/abs/2104.12479). In the paper, he studies the distinguishibility of simple and semisimple level-2 phylogenetic networks extending the earlier work on [large-cycle](https://arxiv.org/abs/1706.03060) and [level-1 networks](https://arxiv.org/abs/2007.08782). Congratulations, Ardi!"
 authors: []
 tags: []
 categories: []
@@ -28,4 +28,4 @@ image:
 projects: []
 ---
 
-My PhD student Muhammad Ardiyansyah has just posted [his first single-authored paper on arXiv](https://arxiv.org/abs/2104.12479). In the paper, he studies the distinguishibility of simple and semisimple level-2 phylogenetic networks extending the earlier work on [large-cycle](https://arxiv.org/abs/1706.03060) and [level-1 networks](https://arxiv.org/abs/2007.08782). Congratulations, Ardi!
+My PhD student [Muhammad Ardiyansyah](https://sites.google.com/view/muhammadardiyansyah/home) has just posted [his first single-authored paper on arXiv](https://arxiv.org/abs/2104.12479). In the paper, he studies the distinguishibility of simple and semisimple level-2 phylogenetic networks extending the earlier work on [large-cycle](https://arxiv.org/abs/1706.03060) and [level-1 networks](https://arxiv.org/abs/2007.08782). Congratulations, Ardi!
