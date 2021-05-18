@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Algebraic degree of optimization over a variety with an application to $$p$$-norm distance degree
+title: Algebraic degree of optimization over a variety with an application to $p$-norm distance degree
 subtitle: ''
 summary: ''
 authors:
@@ -39,11 +39,11 @@ projects: []
 publishDate: 
 publication_types:
 - 3
-abstract: 'We study an optimization problem with the feasible set being a real algebraic variety $$X$$ and whose parametric objective function $$f_u$$ is gradient-solvable with respect to the parametric data $$u$$.
+abstract: 'We study an optimization problem with the feasible set being a real algebraic variety $X$ and whose parametric objective function $f_u$ is gradient-solvable with respect to the parametric data $u$.
 This class of problems includes Euclidean distance optimization as well as maximum likelihood optimization.
 For these particular optimization problems, a prominent role is played by the ED and ML correspondence, respectively.
 To our generalized optimization problem we attach an optimization correspondence and show that it is equidimensional.
-This leads to the notion of algebraic degree of optimization on $$X$$.
-We apply these results to $$p$$-norm optimization, and define the $$p$$-norm distance degree of $$X$$, which coincides with the ED degree of $$X$$ for $$p=2$$. Finally, we derive a formula for the $$p$$-norm distance degree of $X$ as a weighted sum of the polar classes of $$X$$ under suitable transversality conditions.'
+This leads to the notion of algebraic degree of optimization on $X$.
+We apply these results to $p$-norm optimization, and define the $p$-norm distance degree of $X$, which coincides with the ED degree of $X$ for $p=2$. Finally, we derive a formula for the $p$-norm distance degree of $X$ as a weighted sum of the polar classes of $X$ under suitable transversality conditions.'
 publication: 
 ---
