@@ -15,6 +15,7 @@ featured: false
 draft: false
 url_pdf: 
 url_code: "https://github.com/kaiekubjas/nonnegative-rank-four-boundaries"
+doi: "https://doi.org/10.1137/19M1279472"
 
 links:
 - name: arXiv
