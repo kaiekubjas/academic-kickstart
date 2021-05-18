@@ -53,6 +53,6 @@ subtitle = ""
 - A member of the Executive Committee of [MEGA 2021](https://puremath.no/mega2021/), Tromso, June 7-11, 2021
 - [Workshop on Real Algebraic Geometry and Algorithms for Geometric Constraint Systems](http://www.fields.utoronto.ca/activities/20-21/constraint-algorithms), Fields Institute, June 14 - 18, 2021
 - [European Women in Mathematics](https://www.europeanwomeninmaths.org) activities at the [8th European Congress of Mathematics](https://www.8ecm.si), Portoroz, June 20-26, 2021
-- Applied Algbebra session at the [28th Nordic Congress of Mathematicians](https://ncm28.math.aalto.fi), August 18-21, 2022
-- [European Women in Mathematics General Meeting 2022](https://www.europeanwomeninmaths.org/activities/all-our-activities/gm2022/), August 22-26, 2022
+- Applied Algebra session at the [28th Nordic Congress of Mathematicians](https://ncm28.math.aalto.fi), Aalto University, August 18-21, 2022
+- [European Women in Mathematics General Meeting 2022](https://www.europeanwomeninmaths.org/activities/all-our-activities/gm2022/), Aalto University, August 22-26, 2022
 
