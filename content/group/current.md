@@ -50,5 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
+- Etna Lindy, MSc student
 - Inari Puhto, BSc student
+- Venla Valve, BSc student
 
