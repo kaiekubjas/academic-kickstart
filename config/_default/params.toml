@@ -215,7 +215,7 @@ plugins_js  = []
   #   0: Disabled
   #   1: Disqus (https://disqus.com)
   #   2: Commento (https://commento.io)
-  provider = 0
+  engine = 0
 
   # Which page types are commentable?
   commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
@@ -283,6 +283,7 @@ plugins_js  = []
 [cms]
  # Enable the admin panel. See https://wowchemy.com/docs/install/
  netlify_cms = true
+ branch = "master"
 
 ############################
 ## Icon Pack Extensions
