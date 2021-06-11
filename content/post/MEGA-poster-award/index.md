@@ -3,7 +3,7 @@
 
 title: "Second Place Poster Award at MEGA 2021 for Olga Kuznetsova"
 subtitle: ""
-summary: "My PhD student [Olga Kuznetsova](https://okuznetsova.com) won shared Second Place Poster Award at [MEGA 2021](https://puremath.no/mega2021/) for her poster Algebraic Degree of Optimization Over a Variety. The poster is based on our recent preprint ["Algebraic degree of optimization over a variety with an application to p-norm distance degree"](https://arxiv.org/abs/2105.07785) together with Olga Kuznetsova and Luca Sodomaco. Congratulations, Olga!"
+summary: "My PhD student [Olga Kuznetsova](https://okuznetsova.com) won shared Second Place Poster Award at [MEGA 2021](https://puremath.no/mega2021/) for her poster Algebraic Degree of Optimization Over a Variety. The poster is based on our recent preprint [Algebraic degree of optimization over a variety with an application to p-norm distance degree](https://arxiv.org/abs/2105.07785) together with Olga Kuznetsova and Luca Sodomaco. Congratulations, Olga!"
 authors: []
 tags: []
 categories: []
@@ -28,4 +28,4 @@ image:
 projects: []
 ---
 
-My PhD student [Olga Kuznetsova](https://okuznetsova.com) won shared Second Place Poster Award at [MEGA 2021](https://puremath.no/mega2021/) for her poster Algebraic Degree of Optimization Over a Variety. The poster is based on our recent preprint ["Algebraic degree of optimization over a variety with an application to p-norm distance degree"](https://arxiv.org/abs/2105.07785) together with Olga Kuznetsova and Luca Sodomaco. Congratulations, Olga!
+My PhD student [Olga Kuznetsova](https://okuznetsova.com) won shared Second Place Poster Award at [MEGA 2021](https://puremath.no/mega2021/) for her poster Algebraic Degree of Optimization Over a Variety. The poster is based on our recent preprint [Algebraic degree of optimization over a variety with an application to p-norm distance degree](https://arxiv.org/abs/2105.07785) together with Olga Kuznetsova and Luca Sodomaco. Congratulations, Olga!
