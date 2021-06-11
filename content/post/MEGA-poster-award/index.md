@@ -7,7 +7,7 @@ summary: "My PhD student [Olga Kuznetsova](https://okuznetsova.com) won shared S
 authors: []
 tags: []
 categories: []
-date: 2021-06-11
+date: 2021-06-10
 lastmod:
 featured: false
 draft: false
