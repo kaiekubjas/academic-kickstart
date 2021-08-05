@@ -1,16 +1,16 @@
 ---
 # Display name
-title: "Luca Sodomaco"
+title: "Oskar Henriksson"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "luca-sodomaco"
+- "oskar-henriksson"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Postdoc
+role: Erasmus+ Trainee
 
 # Organizations/Affiliations
 organizations:
@@ -41,7 +41,7 @@ education:
 social:
 - icon: globe
   icon_pack: fas
-  link: https://sites.google.com/view/luca-sodomaco/
+  link: http://oskarhenriksson.se
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -54,5 +54,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Grad Students
 ---

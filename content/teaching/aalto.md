@@ -50,6 +50,12 @@ subtitle = ""
  css_class = ""
 +++
 
+In 2021/2022, I will be teaching Abstract Algbera (MS-C1081) during period III and Computational Algebraic Geometry (MS-E1142) during period V.
+
+I am regularly teaching two Master's level courses: Computational Algebraic Geometry (MS-E1142) and Algebraic Statistics (MS-E1621). Computational Algebraic Geometry takes place every year and it is well-suited also to Bachelor's students. Algebraic Statistics takes place every second year and it is mainly aimed towards Master's and PhD students, although Bachelor's students have successfully taken the course. It is recommended although not necessary to take Computational Algebraic Geometry before taking Algebraic Statistics.
+
+Current and past courses:
+
 - 2020/21 IV-V period:      [Commutative Algebra Reading Course](https://mycourses.aalto.fi/course/view.php?id=30884) (MS-E1997)
 
 - 2020/21 III period:      [Computational Algebraic Geometry](https://mycourses.aalto.fi/course/view.php?id=29643) (MS-E1142)
