@@ -50,9 +50,9 @@ subtitle = ""
  css_class = ""
 +++
 
+- Venla Valve. Estimating the Dimension of Algebraic Varieties From Samples. 2021.
 - Saku Myllymäki. Rank-1 tensor completion for small tensors using group actions. 2021.
 - Aleksi Lahti. Classifying critical points of Euclidean distance from real plane curves. 2021. (Co-advised with Luca Sodomaco.)
-- Etna Lindy. Parameter estimation for phylogenetic group-based models in the probability and
-Fourier coordinates. 2020.
+- Etna Lindy. Parameter estimation for phylogenetic group-based models in the probability and Fourier coordinates. 2020.
 - Aapo Pajala. Euclidean distance geometry and its applications in 3D genome reconstruction. 2020.
 - Aki Malinen. Algebraic methods for maximum likelihood estimation. 2020.

@@ -52,5 +52,4 @@ subtitle = ""
 
 - Etna Lindy, MSc student (Co-advised with Luca Sodomaco.)
 - Inari Puhto, BSc student
-- Venla Valve, BSc student
 

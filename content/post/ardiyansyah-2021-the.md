@@ -3,7 +3,7 @@
 
 title: "The model-specific Markov embedding problem for symmetric group-based models"
 subtitle: ""
-summary: "Together with my PhD student [Muhammad Ardiyansyah](https://sites.google.com/view/muhammadardiyansyah/home) and [Dimitra Kosta](https://sites.google.com/view/dkosta) we study the model specific embedding problem for symmetric group-based models in phylogenetics. We provide a characterisation of model embeddable Markov matrices corresponding to symmetric group-based phylogenetic models. Our paper is published in the [Journal of Mathematical Biology](https://link.springer.com/article/10.1007%2Fs00285-021-01656-5)."
+summary: "Together with my PhD student [Muhammad Ardiyansyah](https://sites.google.com/view/muhammad-ardiyansyah/home) and [Dimitra Kosta](https://sites.google.com/view/dkosta) we study the model specific embedding problem for symmetric group-based models in phylogenetics. We provide a characterisation of model embeddable Markov matrices corresponding to symmetric group-based phylogenetic models. Our paper is published in the [Journal of Mathematical Biology](https://link.springer.com/article/10.1007%2Fs00285-021-01656-5)."
 authors: []
 tags: []
 categories: []
@@ -28,4 +28,4 @@ image:
 projects: []
 ---
 
-Together with my PhD student [Muhammad Ardiyansyah](https://sites.google.com/view/muhammadardiyansyah/home) and [Dimitra Kosta](https://sites.google.com/view/dkosta) we study the model specific embedding problem for symmetric group-based models in phylogenetics. We provide a characterisation of model embeddable Markov matrices corresponding to symmetric group-based phylogenetic models. Our paper is published in the [Journal of Mathematical Biology](https://link.springer.com/article/10.1007%2Fs00285-021-01656-5). 
+Together with my PhD student [Muhammad Ardiyansyah](https://sites.google.com/view/muhammad-ardiyansyah/home) and [Dimitra Kosta](https://sites.google.com/view/dkosta) we study the model specific embedding problem for symmetric group-based models in phylogenetics. We provide a characterisation of model embeddable Markov matrices corresponding to symmetric group-based phylogenetic models. Our paper is published in the [Journal of Mathematical Biology](https://link.springer.com/article/10.1007%2Fs00285-021-01656-5). 
