@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-- I am a guest editor for [JSC Special Issue for MEGA 2021](https://mega.sciencesconf.org/resource/page/id/12)
+- Together with Carlos D'Andrea and Fatemeh Mohammadi, I am a guest editor for [JSC Special Issue for MEGA 2021](https://mega.sciencesconf.org/resource/page/id/12)
 - Together with Elisenda Feliu and Cordian Riener I am organizing Applied Algebra session at the [28th Nordic Congress of Mathematicians](https://ncm28.math.aalto.fi), Aalto University, August 18-21, 2022
 - Together with Karin Baur, Elena Resmerita and Andrea Walther I am organizing [European Women in Mathematics General Meeting 2022](https://www.europeanwomeninmaths.org/activities/all-our-activities/gm2022/), Aalto University, August 22-26, 2022
 
