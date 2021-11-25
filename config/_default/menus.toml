@@ -22,7 +22,7 @@
   [[main]]
   name = "Join the group"
   url = "join-the-group"
-  weight = 50
+  weight = 55
 
 [[main]]
   name = "Courses"

@@ -50,6 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-Please send me an email if you would like to discuss possibilities of writing your BSc or MSc thesis in my group. For past thesis topics, see my [group page](https://www.kaiekubjas.com/group/). BSc students writing their thesis in my group have usually taken (or are taking) Abstract Algebra. MSc students writing their thesis in my group are recommended to take Computational Algebraic Geometry or Algebraic Statistics, but there are also opportunities for students interested in related topics, e.g. tensors, mathematics of data science etc.
+Please send me an email if you would like to discuss possibilities of writing your BSc or MSc thesis in my group. For past thesis topics, see [group page](https://www.kaiekubjas.com/group/). BSc students writing their thesis in my group have usually taken (or are taking) Abstract Algebra. MSc students writing their thesis in my group are recommended to take Computational Algebraic Geometry or Algebraic Statistics, but there are also opportunities for students interested in related topics, e.g. tensors, mathematics of data science etc.
 
 Department of Mathematics and Systems Analysis advertises paid summer internships on the [department website](https://math.aalto.fi/en/) around January. Usually one of the paid internships is in my group and the internship can be combined with writing your thesis. It is possible to write your thesis in my group even if you are not selected for a paid internship position. 
