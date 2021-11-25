@@ -21,18 +21,18 @@
 
   [[main]]
   name = "Join the group"
-  url = "join-the-group"
-  weight = 55
+  url = "positions"
+  weight = 60
 
 [[main]]
   name = "Courses"
   url = "teaching"
-  weight = 60
+  weight = 70
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 70
+  weight = 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
