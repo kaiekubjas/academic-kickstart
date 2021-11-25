@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-There is an open call for a 1-year [Postdoctoral Research in Algebraic Statistics](https://aalto.wd3.myworkdayjobs.com/en-US/aalto/job/Otaniemi-Espoo-Finland/Postdoctoral-Researcher_R32118) to join my group. The application deadline is December 15, 2021.
+There is [an open call for a 1-year Postdoctoral Researcher in Algebraic Statistics](https://aalto.wd3.myworkdayjobs.com/en-US/aalto/job/Otaniemi-Espoo-Finland/Postdoctoral-Researcher_R32118) to join my group. The application deadline is December 15, 2021.
 
 There are also various fellowship opportunities for postdoctoral researchers. If you are interested in applying for one of the fellowship to work with me, please check out the following opportunities and get in touch with me:
 - [Academy of Finland Postdoctoral Researcher funding](https://www.aka.fi/en/research-funding/funding-opportunities-at-a-glance/funding-for-individual-researchers/)
