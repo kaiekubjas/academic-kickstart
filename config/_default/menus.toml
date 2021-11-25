@@ -19,6 +19,11 @@
   url = "group"
   weight = 50
 
+  [[main]]
+  name = "Join the group"
+  url = "join-the-group"
+  weight = 50
+
 [[main]]
   name = "Courses"
   url = "teaching"
