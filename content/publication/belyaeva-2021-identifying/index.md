@@ -7,8 +7,8 @@ authors:
 - Kaie Kubjas
 - Lawrence J. Sun
 - Caroline Uhler
-date: 2021-01-07
-doi: ""
+date: 2022-02-28
+doi: "https://doi.org/10.1137/21M1390372"
 url_code: "https://github.com/kaiekubjas/exact-solutions-in-low-rank-approximation-with-zeros"
 
 # Schedule page publish date (NOT publication's date).
@@ -18,10 +18,10 @@ publishDate: 2021-01-07
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: 'arXiv preprint arXiv:2101.05336, accepted to *SIAM Journal on Mathematics of Data Science*'
+publication: '*SIAM Journal on Mathematics of Data Science*, 4(1):204--228'
 publication_short: ""
 
 abstract: ""
