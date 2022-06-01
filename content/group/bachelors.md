@@ -50,6 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
+- Akseli Anttonen. Introduction to persistent homology. 2022.
 - Inari Puhto. Finding polynomial equations from samples. 2021.
 - Venla Valve. Estimating the Dimension of Algebraic Varieties From Samples. 2021.
 - Saku Myllymäki. Rank-1 tensor completion for small tensors using group actions. 2021.
