@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-I am regularly teaching two Master's level courses: Computational Algebraic Geometry (MS-E1142) and Algebraic Statistics (MS-E1621). Both courses take place every second year: Computational Algebraic Geometry in 2021/22 and 2023/24, Algebraic Statistics in 2022/23. Computational Algebraic Geometry is well-suited also to Bachelor's students. Algebraic Statistics is mainly aimed towards Master's and PhD students, although Bachelor's students have successfully taken the course. It is recommended although not necessary to take Computational Algebraic Geometry before taking Algebraic Statistics.
+I am regularly teaching Computational Algebraic Geometry (MS-E1142) and Algebraic Statistics (MS-E1621). The course takes place every second year, in 2021/22 and 2023/24. Computational Algebraic Geometry is well-suited also to Bachelor's students. In 2022/23, I am also teaching Algebraic Methods in Data Science during III-IV periods. This course is mainly aimed towards Master's and PhD students, although Bachelor's students can take the course. It is recommended although not necessary to take Computational Algebraic Geometry before taking Algebraic Methods in Data Science.
 
 Current and past courses:
 
