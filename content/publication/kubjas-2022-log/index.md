@@ -7,20 +7,22 @@ summary: ''
 authors:
 - Kaie Kubjas
 - Olga Kuznetsova
+- Elina Robeva
+- Pardis Semnani
 - Luca Sodomaco
 tags: []
 categories: []
-date: '2021-05-18'
+date: '2022-06-13'
 lastmod: 
 featured: false
 draft: false
 url_pdf: 
-url_code: "https://github.com/olgakuznetsova/algebraic-degree-of-optimization"
+url_code: "https://github.com/olgakuznetsova/LogconcaveGraphical"
 
 
 links:
 - name: arXiv
-  url: "https://arxiv.org/abs/2105.07785"
+  url: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -39,11 +41,6 @@ projects: []
 publishDate: 
 publication_types:
 - 3
-abstract: 'We study an optimization problem with the feasible set being a real algebraic variety $X$ and whose parametric objective function $f_u$ is gradient-solvable with respect to the parametric data $u$.
-This class of problems includes Euclidean distance optimization as well as maximum likelihood optimization.
-For these particular optimization problems, a prominent role is played by the ED and ML correspondence, respectively.
-To our generalized optimization problem we attach an optimization correspondence and show that it is equidimensional.
-This leads to the notion of algebraic degree of optimization on $X$.
-We apply these results to $p$-norm optimization, and define the $p$-norm distance degree of $X$, which coincides with the ED degree of $X$ for $p=2$. Finally, we derive a formula for the $p$-norm distance degree of $X$ as a weighted sum of the polar classes of $X$ under suitable transversality conditions.'
+abstract: 
 publication: 
 ---
