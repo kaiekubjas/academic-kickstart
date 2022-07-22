@@ -50,6 +50,10 @@ url_slides:
 url_source:
 url_video:
 
+links:
+- name: arXiv
+  url: "https://arxiv.org/abs/2206.05227"
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
