@@ -10,12 +10,12 @@ authors:
 - Kaie Kubjas
 tags: []
 categories: []
-date: '2022-06-20'
+date: '2022-06-22'
 lastmod: 2020-08-30T23:28:49+03:00
 featured: false
 draft: false
 url_pdf: 
-doi: 
+doi: "https://doi.org/10.4086/toc.2022.v018a016"
 
 links:
 - name: arXiv
@@ -55,5 +55,5 @@ abstract: 'We study tensor networks as a model of arithmetic computation for
     In particular for $P$ a $v$-clique this yields an $\Omega(n^{\lceil 2v/3 \rceil})$ time lower bound for counting $v$-cliques, and for $P$ a $k$-uniform $v$-hyperclique we obtain an $\Omega(n^v)$ time lower bound for $k \ge 3$, ruling out tensor networks as an approach to obtaining non-trivial algorithms for hyperclique counting and the Max-$3$-CSP problem. <br/> 
  (b) an $\Omega(2^{0.918n})$ time lower bound for the permanent
     of an $n \times n$ matrix.'
-publication: 'Accepted to *Theory of Computing*'
+publication: '*Theory of Computing*, 18(16):1-54'
 ---
