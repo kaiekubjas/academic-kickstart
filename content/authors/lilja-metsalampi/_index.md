@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Lilja Metsälampi"
+title: "Lilja Metsalampi"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -67,3 +67,4 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Grad Students
+---
