@@ -50,7 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-- Theo Elenius, BSc student
-- Etna Lindy, MSc student (Co-advised with Luca Sodomaco.)
-- Emil Verkama, MSc student
+- Etna Lindy, MSc student 
+- Emil Verkama, MSc student 
 
