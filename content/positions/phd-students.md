@@ -50,5 +50,5 @@ subtitle = ""
  css_class = ""
 +++
 
-Department of Mathematics and Systems Analysis has [an open call for Doctoral Candidates in Mathematics, Operations Research and Statistics](https://aalto.wd3.myworkdayjobs.com/en-US/aalto/job/Otaniemi-Espoo-Finland/Doctoral-Candidates-in-Mathematics--Operations-Research-and-Statistics_R32248). If you are interested in doing your PhD with me, mention my name in the cover letter. The application deadline is December 15, 2021.
+There are currently no open positions.
 
