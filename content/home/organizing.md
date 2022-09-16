@@ -52,6 +52,6 @@ subtitle = ""
 
 - Together with Carlos D'Andrea and Fatemeh Mohammadi, I am a guest editor for [JSC Special Issue for MEGA 2021](https://mega.sciencesconf.org/resource/page/id/12)
 - I am a member of the program committee of [ISSAC 2023](https://www.issac-conference.org/2023/) in Tromso, Norway, July 24-27, 2023
-- Together with Jose Rodriguez, Serkan Hosten, Thomas Kahle, Fatemeh Mohammadi, Guillaume A. Pouliot, I am organizing an IMSI workshop [Invitation to algebraic statistics and applications](https://www.imsi.institute/activities/algebraic-statistics-and-our-changing-world/invitation-to-algebraic-statistics-and-applications/), September 18-22, 2023
+- Together with Jose Rodriguez, Serkan Hosten, Thomas Kahle, Fatemeh Mohammadi, Guillaume A. Pouliot, we are organizing an IMSI workshop [Invitation to algebraic statistics and applications](https://www.imsi.institute/activities/algebraic-statistics-and-our-changing-world/invitation-to-algebraic-statistics-and-applications/), September 18-22, 2023
 
 
