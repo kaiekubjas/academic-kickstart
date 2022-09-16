@@ -16,7 +16,7 @@ publishDate: 2022-09-16T11:19:43+03:00
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Symbolic Computation*"
+publication: "*Journal of Symbolic Computation*, 114:99-101"
 publication_short: ""
 
 abstract: ""
