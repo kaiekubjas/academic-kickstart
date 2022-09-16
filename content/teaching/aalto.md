@@ -50,9 +50,13 @@ subtitle = ""
  css_class = ""
 +++
 
-I am regularly teaching Computational Algebraic Geometry (MS-E1142). The course takes place every second year, in 2021/22 and 2023/24. Computational Algebraic Geometry is well-suited also to Bachelor's students. In 2022/23, I am also teaching Algebraic Methods in Data Science during III-IV periods. This course is mainly aimed towards Master's and PhD students, although Bachelor's students can take the course. It is recommended although not necessary to take Computational Algebraic Geometry before taking Algebraic Methods in Data Science.
+I am regularly teaching Computational Algebraic Geometry (MS-E1142). The course takes place every second year, in 2021/22 and 2023/24. Computational Algebraic Geometry is well-suited both to Bachelor's and Master's students. In 2022/23, I am also teaching Algebraic Methods in Data Science during III-IV periods. This course is mainly aimed towards Master's and PhD students, although Bachelor's students can take the course. It is recommended although not necessary to take Computational Algebraic Geometry before taking Algebraic Methods in Data Science.
 
 Current and past courses:
+
+- 2022/23 III-IV period:    [Algebraic Methods in Data Science](https://mycourses.aalto.fi/course/view.php?id=36353) (MS-E1622) 
+
+- 2022/23 III period:      [Abstract Algebra](https://mycourses.aalto.fi/course/view.php?id=36240) (MS-C1081) 
 
 - 2021/22 V period:        [Computational Algebraic Geometry](https://mycourses.aalto.fi/course/view.php?id=32913) (MS-E1142)
 
