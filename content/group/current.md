@@ -50,6 +50,5 @@ subtitle = ""
  css_class = ""
 +++
 
-- Etna Lindy, MSc student 
 - Emil Verkama, MSc student 
 
