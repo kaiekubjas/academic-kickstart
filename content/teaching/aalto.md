@@ -56,8 +56,6 @@ Current and past courses:
 
 - 2022/23 III-IV period:    [Algebraic Methods in Data Science](https://mycourses.aalto.fi/course/view.php?id=36353) (MS-E1622) 
 
-- 2022/23 III period:      [Abstract Algebra](https://mycourses.aalto.fi/course/view.php?id=36240) (MS-C1081) 
-
 - 2021/22 V period:        [Computational Algebraic Geometry](https://mycourses.aalto.fi/course/view.php?id=32913) (MS-E1142)
 
 - 2021/22 III period:      [Abstract Algebra](https://mycourses.aalto.fi/course/view.php?id=32928) (MS-C1081) 

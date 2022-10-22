@@ -13,11 +13,12 @@ authors:
 - Miruna-Stefana Sorea
 tags: []
 categories: []
-date: '2020-03-10'
+date: '2023-02-01'
 lastmod: 2020-08-30T23:28:48+03:00
 featured: false
 draft: false
 url_pdf: 
+doi: "https://doi.org/10.1016/j.aam.2022.102448"
 url_code: "https://github.com/agrosdos/Computing-the-Exact-LogConcave-MLE"
 
 links:
@@ -40,7 +41,7 @@ image:
 projects: []
 publishDate: '2020-08-30T20:28:48.688288Z'
 publication_types:
-- 3
+- 2
 abstract: 'We study probability density functions that are log-concave. Despite the space of all such densities being infinite-dimensional, the maximum likelihood estimate is the exponential of a piecewise linear function determined by finitely many quantities, namely the function values, or heights, at the data points. We explore in what sense exact solutions to this problem are possible. First, we show that the heights given by the maximum likelihood estimate are generically transcendental. For a cell in one dimension, the maximum likelihood estimator is expressed in closed form using the generalized W-Lambert function. Even more, we show that finding the log-concave maximum likelihood estimate is equivalent to solving a collection of polynomial-exponential systems of a special form. Even in the case of two equations, very little is known about solutions to these systems. As an alternative, we use Smale''s alpha-theory to refine approximate numerical solutions and to certify solutions to log-concave density estimation.'
-publication: '*arXiv preprint arXiv:2003.04840*, accepted to *Advances in Applied Mathematics*'
+publication: '*Advances in Applied Mathematics,* 143'
 ---
