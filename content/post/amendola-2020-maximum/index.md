@@ -1,14 +1,14 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Maximum likelihood estimation of toric Fano varieties"
+title: "The model-specific Markov embedding problem for symmetric group-based models"
 subtitle: ""
-summary: "In the joint work with Carlos Améndola and Dimitra Kosta we study the maximum likelihood estimation problem for all 2-dimensional Gorenstein toric Fano varieties, we explore the reasons for the ML degree drop and we prove a result about the multiplicativity of ML degrees of codimension zero toric fiber products. This article appeared in the first volume of *[Algebraic Statistics](https://msp.org/astat/2020/11-1/index.xhtml)*. This first volume is numbered 11 to honour the past work of the algebraic statistics community."
+summary: "Together with my PhD student [Muhammad Ardiyansyah](https://sites.google.com/view/muhammad-ardiyansyah/home) and [Dimitra Kosta](https://sites.google.com/view/dkosta) we study the model specific embedding problem for symmetric group-based models in phylogenetics. We provide a characterisation of model embeddable Markov matrices corresponding to symmetric group-based phylogenetic models. Our paper is published in the [Journal of Mathematical Biology](https://link.springer.com/article/10.1007%2Fs00285-021-01656-5)."
 authors: []
 tags: []
 categories: []
-date: 2020-10-01
-lastmod: 2020-10-01
+date: 2021-09-10T17:25:27+03:00
+lastmod: 2021-09-10T17:25:27+03:00
 featured: false
 draft: false
 
@@ -28,4 +28,4 @@ image:
 projects: []
 ---
 
-In the joint work with Carlos Améndola and Dimitra Kosta we study the maximum likelihood estimation problem for all 2-dimensional Gorenstein toric Fano varieties, we explore the reasons for the ML degree drop and we prove a result about the multiplicativity of ML degrees of codimension zero toric fiber products. This article appeared in the first volume of *[Algebraic Statistics](https://msp.org/astat/2020/11-1/index.xhtml)*. This first volume is numbered 11 to honour the past work of the algebraic statistics community.
+Together with my PhD student [Muhammad Ardiyansyah](https://sites.google.com/view/muhammad-ardiyansyah/home) and [Dimitra Kosta](https://sites.google.com/view/dkosta) we study the model specific embedding problem for symmetric group-based models in phylogenetics. We provide a characterisation of model embeddable Markov matrices corresponding to symmetric group-based phylogenetic models. Our paper is published in the [Journal of Mathematical Biology](https://link.springer.com/article/10.1007%2Fs00285-021-01656-5). 
