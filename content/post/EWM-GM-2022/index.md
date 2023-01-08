@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "European Women in Mathematical General Meeting 2022"
+title: "European Women in Mathematics General Meeting 2022"
 subtitle: ""
 summary: "The European Women in Mathematics General Meeting 2022 took place at Aalto University during August 22-26, 2022. The conference had 129 participants from 25 countries. Click on the post to read more."
 authors: []
