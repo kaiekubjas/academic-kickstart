@@ -3,7 +3,7 @@
 
 title: "Exact Solutions in Log-Concave Maximum Likelihood Estimation"
 subtitle: ""
-summary: "Our paper with Alexandros Grosdos, Alexander Heaton, Olga Kuznetsova, Georgy Scholten, Miruna-Stefana Sorea is now published in [Advances in Applied Mathematics](https://www.sciencedirect.com/science/article/pii/S0196885822001324?via%3Dihub). The log-concave maximum likelihood estimate is known to be the exponential of a tent function with the tentpoles being the data points. The tent function induces a subdivision of the convex hull of the data points. It turns out that even determining the optimal subdivision can be challenging! We study the transcendentality of the solutions, give a closed form solution in the simplest case and explore how to certify the solutions."
+summary: "Our paper with Alexandros Grosdos, Alexander Heaton, Olga Kuznetsova, Georgy Scholten, and Miruna-Stefana Sorea is now published in [Advances in Applied Mathematics](https://www.sciencedirect.com/science/article/pii/S0196885822001324?via%3Dihub). The log-concave maximum likelihood estimate is known to be the exponential of a tent function with the tentpoles being the data points. The tent function induces a subdivision of the convex hull of the data points. It turns out that even determining the optimal subdivision can be challenging! We study the transcendentality of the solutions, give a closed form solution in the simplest case and explore how to certify the solutions."
 authors: []
 tags: []
 categories: []
@@ -27,3 +27,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+Our paper with Alexandros Grosdos, Alexander Heaton, Olga Kuznetsova, Georgy Scholten, and Miruna-Stefana Sorea is now published in [Advances in Applied Mathematics](https://www.sciencedirect.com/science/article/pii/S0196885822001324?via%3Dihub). The log-concave maximum likelihood estimate is known to be the exponential of a tent function with the tentpoles being the data points. The tent function induces a subdivision of the convex hull of the data points. It turns out that even determining the optimal subdivision can be challenging! We study the transcendentality of the solutions, give a closed form solution in the simplest case and explore how to certify the solutions.
