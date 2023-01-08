@@ -3,7 +3,7 @@
 
 title: "European Women in Mathematical General Meeting 2022"
 subtitle: ""
-summary: "The European Women in Mathematics General Meeting 2022 took place at Aalto University during August 22-26, 2022. The conference had 129 participants from 25 countries. "
+summary: "The European Women in Mathematics General Meeting 2022 took place at Aalto University during August 22-26, 2022. The conference had 129 participants from 25 countries. Click on the post to read more."
 authors: []
 tags: []
 categories: []
@@ -16,7 +16,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "Group picture at the EWM GM 2022"
   focal_point: ""
   preview_only: false
 
