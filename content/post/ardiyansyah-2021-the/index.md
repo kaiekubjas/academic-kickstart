@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Ardiyansyah 2021 The"
+title: "The model-specific Markov embedding problem for symmetric group-based models"
 subtitle: ""
-summary: ""
+summary: "Together with my PhD student [Muhammad Ardiyansyah](https://sites.google.com/view/muhammad-ardiyansyah/home) and [Dimitra Kosta](https://sites.google.com/view/dkosta) we study the model specific embedding problem for symmetric group-based models in phylogenetics. We provide a characterisation of model embeddable Markov matrices corresponding to symmetric group-based phylogenetic models. Our paper is published in the [Journal of Mathematical Biology](https://link.springer.com/article/10.1007%2Fs00285-021-01656-5)."
 authors: []
 tags: []
 categories: []
-date: 2023-01-08T20:27:20+02:00
-lastmod: 2023-01-08T20:27:20+02:00
+date: 2021-09-10T17:25:27+03:00
+lastmod: 2021-09-10T17:25:27+03:00
 featured: false
 draft: false
 
@@ -27,3 +27,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+Together with my PhD student [Muhammad Ardiyansyah](https://sites.google.com/view/muhammad-ardiyansyah/home) and [Dimitra Kosta](https://sites.google.com/view/dkosta) we study the model specific embedding problem for symmetric group-based models in phylogenetics. We provide a characterisation of model embeddable Markov matrices corresponding to symmetric group-based phylogenetic models. Our paper is published in the [Journal of Mathematical Biology](https://link.springer.com/article/10.1007%2Fs00285-021-01656-5). 
