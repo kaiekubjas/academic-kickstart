@@ -3,7 +3,7 @@
 
 title: "Applied Algebra Session at the Nordic Congress of Mathematicians"
 subtitle: ""
-summary: "28th Nordic Congress of Mathematicians took place at Aalto University during August 18-21, 2022. Together with Elisenda Feliu (University of Copenhagen) and Cordian Riener (UiT The Arctic University of Norway), we organized the Applied Algebra Session that brought together applied algebraists in the Nordic countries. The list of talks is posted [here](https://ncm28.math.aalto.fi/schedule/session/2)."
+summary: "The [28th Nordic Congress of Mathematicians](https://ncm28.math.aalto.fi/info) took place at Aalto University during August 18-21, 2022. Together with Elisenda Feliu (University of Copenhagen) and Cordian Riener (UiT The Arctic University of Norway), we organized the Applied Algebra Session that brought together applied algebraists in the Nordic countries. The list of talks in the session can be found [here](https://ncm28.math.aalto.fi/schedule/session/2)."
 authors: []
 tags: []
 categories: []
