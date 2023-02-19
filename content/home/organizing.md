@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 22  # Order that this section will appear.
 
-title = "Organization, scientific committees and editorial boards"
+title = "Organization, scientific committees and editorial work"
 subtitle = ""
 
 [design]
@@ -55,6 +55,6 @@ subtitle = ""
 - I am a member of the program committee of [ISSAC 2023](https://www.issac-conference.org/2023/) in Tromso, Norway, July 24-27, 2023
 - Together with Jose Rodriguez, Serkan Hosten, Thomas Kahle, Fatemeh Mohammadi, Guillaume A. Pouliot, we are organizing an IMSI workshop [Invitation to algebraic statistics and applications](https://www.imsi.institute/activities/algebraic-statistics-and-our-changing-world/invitation-to-algebraic-statistics-and-applications/), September 18-22, 2023
 - Together with Serkan Hosten and Bernd Sturmfels, we are organizing [Apprenticeship Week: Varieties from Statistics](https://www.imsi.institute/activities/apprenticeship-week-varieties-from-statistics) at IMSI, October 2-6, 2023
-- I am one of the co-chairs of MEGA 2024 in Leipzig, July 29 – August 2, 2024
+- I am one of the co-chairs of MEGA 2024 in Leipzig, July 29-August 2, 2024
 
 
