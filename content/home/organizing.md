@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 22  # Order that this section will appear.
 
-title = "Editorial and organizatorial work"
+title = "Organization, scientific committees and editorial boards"
 subtitle = ""
 
 [design]
@@ -49,10 +49,12 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-- Together with Carlos D'Andrea and Fatemeh Mohammadi, I am a guest editor for [JSC Special Issue for MEGA 2021](https://mega.sciencesconf.org/resource/page/id/12)
-- I am a member of the editorial board of [Journal of Symbolic Computation](https://www.sciencedirect.com/journal/journal-of-symbolic-computation)
+- Together with Carlos D'Andrea and Fatemeh Mohammadi, I was a guest editor of [JSC Special Issue for MEGA 2021](https://www.sciencedirect.com/journal/journal-of-symbolic-computation/special-issue/10NXHCK8LJ2)
+- Since 2022 I am a member of the editorial board of [Journal of Symbolic Computation](https://www.sciencedirect.com/journal/journal-of-symbolic-computation)
+- Since 2021 I am a member of the advisory board of [MEGA: Effective Methods in Algebraic Geometry](https://mega.sciencesconf.org/resource/page/id/6)
 - I am a member of the program committee of [ISSAC 2023](https://www.issac-conference.org/2023/) in Tromso, Norway, July 24-27, 2023
 - Together with Jose Rodriguez, Serkan Hosten, Thomas Kahle, Fatemeh Mohammadi, Guillaume A. Pouliot, we are organizing an IMSI workshop [Invitation to algebraic statistics and applications](https://www.imsi.institute/activities/algebraic-statistics-and-our-changing-world/invitation-to-algebraic-statistics-and-applications/), September 18-22, 2023
+- Together with Serkan Hosten and Bernd Sturmfels, we are organizing [Apprenticeship Week: Varieties from Statistics](https://www.imsi.institute/activities/apprenticeship-week-varieties-from-statistics) at IMSI, October 2-6, 2023
+- I am one of the co-chairs of MEGA 2024 in Leipzig, July 29 – August 2, 2024
 
 

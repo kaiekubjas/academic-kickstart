@@ -50,6 +50,8 @@ subtitle = ""
  css_class = ""
 +++
 
+- October 2022:            [Masterclass on Algebraic Statistics](https://webmagazine.unitn.it/en/evento/dmath/114181/masterclass-algebraic-statistics-and-related-topics) (University of Trento, Trento, Italy)
+
 - Spring 2022:            [CIMPA School on Algebraic and Combinatorial Methods in Geometry](https://sites.google.com/view/smscimpa21/home?authuser=0) (LUMS, Lahore, Pakistan)
 
 - Summer 2018:           [Summer School in Algebraic Statistics](https://site.uit.no/alg-stat/) (Arctic University of Norway, Tromso, Norway)
