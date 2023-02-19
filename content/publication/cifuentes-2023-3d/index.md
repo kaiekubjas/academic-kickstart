@@ -30,9 +30,9 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
- links:
- - name: arXiv
-   url: "https://arxiv.org/abs/2301.11764"
+links:
+- name: arXiv
+  url: "https://arxiv.org/abs/2301.11764"
 #   icon_pack: fab
 #   icon: twitter
 
