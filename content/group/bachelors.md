@@ -50,12 +50,13 @@ subtitle = ""
  css_class = ""
 +++
 
+- Matias Koponen. Mathematical Modelling of Mental Rotation. 2023. (Supervised by me, advised by Stéphane Deny and Petteri Kaski.)
 - Theo Elenius. Algebraic geometry of deep polynomial neural networks. 2022.
 - Akseli Anttonen. Introduction to persistent homology. 2022.
 - Inari Puhto. Finding polynomial equations from samples. 2021.
 - Venla Valve. Estimating the dimension of algebraic varieties from samples. 2021.
 - Saku Myllymäki. Rank-1 tensor completion for small tensors using group actions. 2021.
-- Aleksi Lahti. Classifying critical points of Euclidean distance from real plane curves. 2021. (Co-advised with Luca Sodomaco.)
+- Aleksi Lahti. Classifying critical points of Euclidean distance from real plane curves. 2021. (Supervised by me, advised by Luca Sodomaco.)
 - Etna Lindy. Parameter estimation for phylogenetic group-based models in the probability and Fourier coordinates. 2020.
 - Aapo Pajala. Euclidean distance geometry and its applications in 3D genome reconstruction. 2020.
 - Aki Malinen. Algebraic methods for maximum likelihood estimation. 2020.

@@ -50,6 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
+- Emil Verkama. Repairing the Universality Theorem for 4-Polytopes. 2023. (Supervised by me, advised by Tobias Boege.)
 - Huanhuan Chen. Infinitesimally rigid factorizations of nonnegative rank four. 2019. (In Paris.)
 - Mateo Rendon Jaramillo. An algebraic and combinatorial perspective on rank-one tensor completion. 2018.
-- Marc Härkönen. Holonomic least angle regression. 2017. (Co-advised with Camilla Hollanti and Tomonari Sei.)
+- Marc Härkönen. Holonomic least angle regression. 2017. (Supervised by Camilla Hollanti, advised by Tomonari Sei and me.)

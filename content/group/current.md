@@ -50,5 +50,5 @@ subtitle = ""
  css_class = ""
 +++
 
-- Emil Verkama, MSc student 
+
 
