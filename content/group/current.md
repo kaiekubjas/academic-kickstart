@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 22  # Order that this section will appear.
 
-title = "Bachelor's and Master's students"
+title = "PhD theses"
 subtitle = ""
 
 [design]
@@ -50,5 +50,8 @@ subtitle = ""
  css_class = ""
 +++
 
+- Muhammad Ardiyansyah. [Algebraic Aspects of Hidden Variable Models](https://aaltodoc.aalto.fi/handle/123456789/122138). 2019-2023.
+
+- Olga Kuznetsova. [Interactions of Algebra, Statistics and Optimization](https://aaltodoc.aalto.fi/handle/123456789/121784). 2019-2023.
 
 

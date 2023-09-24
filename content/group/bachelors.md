@@ -50,6 +50,8 @@ subtitle = ""
  css_class = ""
 +++
 
+- Kasper Rantamäki. Zero-shot classifier based on robust ellipsoid optimization. 2023.
+- Alex Halme. Permutation-based Algorithms for Causal Inference under Interventions. 2023.
 - Matias Koponen. Mathematical Modelling of Mental Rotation. 2023. (Supervised by me, advised by Stéphane Deny and Petteri Kaski.)
 - Theo Elenius. Algebraic geometry of deep polynomial neural networks. 2022.
 - Akseli Anttonen. Introduction to persistent homology. 2022.
