@@ -50,10 +50,10 @@ subtitle = ""
  css_class = ""
 +++
 
-# There is a call for doctoral researchers in mathematics, operations research, and statistics with the deadline 31.1.2023:
-# [https://www.aalto.fi/en/open-positions/doctoral-researchers-in-mathematics-operations-research-and-statistics](https://www.aalto.fi/en/open-positions/doctoral-researchers-in-mathematics-operations-research-and-statistics)
+<!-- There is a call for doctoral researchers in mathematics, operations research, and statistics with the deadline 31.1.2023:
+[https://www.aalto.fi/en/open-positions/doctoral-researchers-in-mathematics-operations-research-and-statistics](https://www.aalto.fi/en/open-positions/doctoral-researchers-in-mathematics-operations-research-and-statistics)
 
-# If you are interested in working with me, select "Algebra and discrete mathematics" as the research area and mention my name in the cover letter.
+If you are interested in working with me, select "Algebra and discrete mathematics" as the research area and mention my name in the cover letter. -->
 
 Currently I am not hiring any PhD students. 
 
