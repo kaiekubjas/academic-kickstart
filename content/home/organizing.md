@@ -52,7 +52,7 @@ subtitle = ""
 - Together with Carlos D'Andrea and Fatemeh Mohammadi, I was a guest editor of [JSC Special Issue for MEGA 2021](https://www.sciencedirect.com/journal/journal-of-symbolic-computation/special-issue/10NXHCK8LJ2)
 - Since 2021 I am a member of the advisory board of [MEGA: Effective Methods in Algebraic Geometry](https://mega.sciencesconf.org/resource/page/id/6)
 - Since 2022 I am a member of the editorial board of [Journal of Symbolic Computation](https://www.sciencedirect.com/journal/journal-of-symbolic-computation)
-- Since 2024 I am a member of the editorial board [SIAM Journal on Applied Algebra and Geometry](https://www.siam.org/publications/journals/siam-journal-on-applied-algebra-and-geometry-siaga)
+- Since 2024 I am a member of the editorial board of [SIAM Journal on Applied Algebra and Geometry](https://www.siam.org/publications/journals/siam-journal-on-applied-algebra-and-geometry-siaga)
 - Together with Tony Nixon, we are organizing [Rigidity in Action](https://www.ricam.oeaw.ac.at/specsem/specsem2024/) at RICAM, April 8-12, 2024
 - Together with Frank Sottile, we are co-chairs of [MEGA 2024](https://www.mis.mpg.de/calendar/conferences/2024/mega.html) in Leipzig, July 29-August 2, 2024
 
