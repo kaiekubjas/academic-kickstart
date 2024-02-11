@@ -74,6 +74,4 @@ Since 2017 I am a tenure-track assistant professor in the [Department of Mathema
 
 I work in the field of applied nonlinear algebra. I am particularly interested in algebraic statistics and applications in biology, for example in phylogenetics and 3D genome reconstruction. I am also interested in questions about matrix and tensor decompositions, e.g. nonnegative and positive semidefinite factorizations, and low-rank matrix/tensor completion. Besides nonlinear algebra, I like to use tools from combinatorics, polyhedral geometry and convex optimization.
 
-Currently I am the Vice Chair of the [SIAM Activity Group on Algebraic Geometry](https://www.siam.org/membership/activity-groups/detail/algebraic-geometry-si-ag-2). In 2020-2022 I was the Deputy Convenor of [European Women in Mathematics](https://www.europeanwomeninmaths.org).
-
-[Academy of Finland](https://www.aka.fi/en/) is funding my research through project funding for early-career researchers.
+In 2022-2023 I was the Vice Chair and in 2020-2021 the Secretary of the [SIAM Activity Group on Algebraic Geometry](https://www.siam.org/membership/activity-groups/detail/algebraic-geometry-si-ag-2). In 2020-2022 I was the Deputy Convenor of [European Women in Mathematics](https://www.europeanwomeninmaths.org).
