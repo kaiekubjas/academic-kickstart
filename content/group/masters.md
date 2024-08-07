@@ -50,7 +50,10 @@ subtitle = ""
  css_class = ""
 +++
 
-- Emil Verkama. Repairing the Universality Theorem for 4-Polytopes. 2023. (Supervised by me, advised by Tobias Boege.)
+- Joel Hakavuori. Nonpositive curvature, l^2-invariants and right-angled Coxeter groups. 2024. (Supervised by me, advised by Karim Adiprasito.)
+- Etna Lindy. Best nonnegative rank-2 matrix approximations. 2024. (Supervised by me, advised by Luca Sodomaco.)
+- Oula Kekäläinen. Generalization of Descartes’ rule of signs to multivariate polynomials with real exponents. 2024.
+- Emil Verkama. Repairing the Universality Theorem for 4-Polytopes. 2023. (Supervised by me, advised by Tobias Boege.) Aalto SCI Master's thesis award 2023 and [Ernst Lindelöf prize](https://matemaattinenyhdistys.fi/toiminta/palkinnot/ernst-lindelof-palkinnot).
 - Huanhuan Chen. Infinitesimally rigid factorizations of nonnegative rank four. 2019. (In Paris.)
 - Mateo Rendon Jaramillo. An algebraic and combinatorial perspective on rank-one tensor completion. 2018.
 - Marc Härkönen. Holonomic least angle regression. 2017. (Supervised by Camilla Hollanti, advised by Tomonari Sei and me.)

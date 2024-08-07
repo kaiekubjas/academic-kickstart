@@ -50,6 +50,8 @@ subtitle = ""
  css_class = ""
 +++
 
+- Meeri Palokangas. Undirected Graphical Models for Discovering Statistical Dependencies in Continuous Air Pollutant and Weather Data. 2024. (Supervised by me, advised by Nataliia Kushnerchuk.)
+- Michael Yang. Homotopy and homology of topological spaces: their functoriality and relations between them. 2024. (Supervised by me, advised by Milo Orlich.)
 - Kasper Rantamäki. Zero-shot classifier based on robust ellipsoid optimization. 2023.
 - Alex Halme. Permutation-based Algorithms for Causal Inference under Interventions. 2023.
 - Matias Koponen. Mathematical Modelling of Mental Rotation. 2023. (Supervised by me, advised by Stéphane Deny and Petteri Kaski.)
