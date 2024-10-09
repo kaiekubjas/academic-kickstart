@@ -49,11 +49,15 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- Together with Carlos D'Andrea and Fatemeh Mohammadi, I was a guest editor of [JSC Special Issue for MEGA 2021](https://www.sciencedirect.com/journal/journal-of-symbolic-computation/special-issue/10NXHCK8LJ2)
-- Since 2021 I am a member of the advisory board of [MEGA: Effective Methods in Algebraic Geometry](https://mega.sciencesconf.org/resource/page/id/6)
-- Since 2022 I am a member of the editorial board of [Journal of Symbolic Computation](https://www.sciencedirect.com/journal/journal-of-symbolic-computation)
+- Algebra and Discrete Mathematics Seminar at Aalto takes place on Tuesdays at 15:15. See the seminar [website](https://sites.google.com/view/algedismathaaltoseminar/home-page) for the upcoming talks
+- Eestalastel Aaltos on oma mailing list (sööme kord kuus koos lõunat). Kui soovid mailing listiga liituda, siis saada mulle email
+- Together with Frank Sottile, Teresa Krick and Claudiu Raicu, I am a guest editor for JSC Special Issue for MEGA 2024. The call for papers with the deadline on October 31, 2024 is [here](https://mega.sciencesconf.org/resource/page/id/15)
 - Since 2024 I am a member of the editorial board of [SIAM Journal on Applied Algebra and Geometry](https://www.siam.org/publications/journals/siam-journal-on-applied-algebra-and-geometry-siaga)
-- Together with Tony Nixon, we are organizing [Rigidity in Action](https://www.ricam.oeaw.ac.at/specsem/specsem2024/) at RICAM, April 8-12, 2024
-- Together with Frank Sottile, we are co-chairs of [MEGA 2024](https://www.mis.mpg.de/calendar/conferences/2024/mega.html) in Leipzig, July 29-August 2, 2024
+- Since 2022 I am a member of the editorial board of [Journal of Symbolic Computation](https://www.sciencedirect.com/journal/journal-of-symbolic-computation)
+- Since 2021 I am a member of the advisory board of [MEGA: Effective Methods in Algebraic Geometry](https://mega.sciencesconf.org/resource/page/id/6)
+- Together with Carlos D'Andrea and Fatemeh Mohammadi, I was a guest editor for [JSC Special Issue for MEGA 2021](https://www.sciencedirect.com/journal/journal-of-symbolic-computation/special-issue/10NXHCK8LJ2)
+
+
+
 
 

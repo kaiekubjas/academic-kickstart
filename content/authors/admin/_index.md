@@ -59,7 +59,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/cv_kubjas.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,7 +70,7 @@ user_groups:
 - Principal Investigator
 ---
 
-Since 2017 I am a tenure-track assistant professor in the [Department of Mathematics and Systems Analysis](https://math.aalto.fi/en/) at [Aalto University](https://www.aalto.fi/en). I received my PhD in mathematics in 2013 from Freie Universität Berlin under supervision of [Christian Haase](http://www.mi.fu-berlin.de/math/groups/ag-diskret-algebra-geom/index.html) and [Klaus Altmann](http://www.math.fu-berlin.de/altmann/). As a postdoctoral researcher I visited Max Planck Institute for Mathematics, Aalto Science Institute, Simons Institute for the Theory of Computing, Institute of Data, Systems and Society at MIT and PolSys Team at Sorbonne University. 
+Since 2024 July I am a tenured associate professor in the [Department of Mathematics and Systems Analysis](https://math.aalto.fi/en/) at [Aalto University](https://www.aalto.fi/en). During 2017-2024 I was a tenure-track assistant professor in the same department.  I received my PhD in mathematics in 2013 from Freie Universität Berlin under supervision of [Christian Haase](http://www.mi.fu-berlin.de/math/groups/ag-diskret-algebra-geom/index.html) and [Klaus Altmann](http://www.math.fu-berlin.de/altmann/). As a postdoctoral researcher I visited Max Planck Institute for Mathematics, Aalto Science Institute, Simons Institute for the Theory of Computing, Institute of Data, Systems and Society at MIT and PolSys Team at Sorbonne University. 
 
 I work in the field of applied nonlinear algebra. I am particularly interested in algebraic statistics and applications in biology, for example in phylogenetics and 3D genome reconstruction. I am also interested in questions about matrix and tensor decompositions, e.g. nonnegative and positive semidefinite factorizations, and low-rank matrix/tensor completion. Besides nonlinear algebra, I like to use tools from combinatorics, polyhedral geometry and convex optimization.
 
