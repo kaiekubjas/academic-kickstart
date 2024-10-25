@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Geometry of Polynomial Neural Networks"
+title: "Colored Gaussian DAG models"
 authors: [Tobias Boege, Kaie Kubjas, Pratik Misra, Liam Solus]
 date: 2024-05-27
 doi: ""
