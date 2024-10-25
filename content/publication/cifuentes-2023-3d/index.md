@@ -3,7 +3,7 @@
 
 title: "3D genome reconstruction from partially phased Hi-C data"
 authors: ["Diego Cifuentes", "Jan Draisma", "Oskar Henriksson", "Annachiara Korchmaros", "Kaie Kubjas"]
-date: 2023-01-27
+date: 2024-02-22
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,10 +13,10 @@ publishDate: 2023-02-19T14:09:44+02:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Accepted to *Bulletin of Mathematical Biology*"
+publication: "*Bulletin of Mathematical Biology*, 86(4), Article number: 33."
 publication_short: ""
 
 abstract: "The 3-dimensional (3D) structure of the genome is of significant importance for many cellular processes. In this paper, we study the problem of reconstructing the 3D structure of chromosomes from Hi-C data of diploid organisms, which poses additional challenges compared to the better-studied haploid setting. With the help of techniques from algebraic geometry, we prove that a small amount of phased data is sufficient to ensure finite identifiability, both for noiseless and noisy data. In the light of these results, we propose a new 3D reconstruction method based on semidefinite programming, paired with numerical algebraic geometry and local optimization. The performance of this method is tested on several simulated datasets under different noise levels and with different amounts of phased data. We also apply it to a real dataset from mouse X chromosomes, and we are then able to recover previously known structural features."

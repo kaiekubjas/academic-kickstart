@@ -45,5 +45,5 @@ For these particular optimization problems, a prominent role is played by the ED
 To our generalized optimization problem we attach an optimization correspondence and show that it is equidimensional.
 This leads to the notion of algebraic degree of optimization on $X$.
 We apply these results to $p$-norm optimization, and define the $p$-norm distance degree of $X$, which coincides with the ED degree of $X$ for $p=2$. Finally, we derive a formula for the $p$-norm distance degree of $X$ as a weighted sum of the polar classes of $X$ under suitable transversality conditions.'
-publication: 
+publication: "Accepted to *Acta Universitatis Sapientiae, Mathematica (Special Issue on Metric Algebraic Geometry)*"
 ---
