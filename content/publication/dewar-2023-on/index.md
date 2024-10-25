@@ -42,7 +42,7 @@ links:
 #   icon: twitter
 
 url_pdf:
-url_code:
+url_code: "https://doi.org/10.5281/zenodo.8114283"
 url_dataset:
 url_poster:
 url_project:

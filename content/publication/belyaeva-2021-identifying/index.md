@@ -9,7 +9,6 @@ authors:
 - Caroline Uhler
 date: 2022-02-28
 doi: "https://doi.org/10.1137/21M1390372"
-url_code: "https://github.com/kaiekubjas/exact-solutions-in-low-rank-approximation-with-zeros"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-01-07
@@ -42,7 +41,7 @@ featured: false
 #   icon: twitter
 
 url_pdf: 
-url_code: 
+url_code: "https://github.com/uhlerlab/diploid-3D-reconstruction"
 url_dataset:
 url_poster:
 url_project:

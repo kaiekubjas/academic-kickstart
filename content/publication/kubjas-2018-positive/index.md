@@ -15,6 +15,7 @@ lastmod: 2020-08-30T23:28:49+03:00
 featured: false
 draft: false
 url_pdf: 
+url_code: "https://github.com/kaiekubjas/psd-rank"
 doi: "http://dx.doi.org/10.1080/03081087.2017.1381664"
 
 

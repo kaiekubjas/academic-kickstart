@@ -4,7 +4,7 @@
 title: "Corrigendum to “Exact solutions in log-concave maximum likelihood estimation” [Adv. Appl. Math. 143 (2023) 102448]"
 authors: [Alexandros Grosdos, Alexander Heaton, Kaie Kubjas, Olga Kuznetsova, Georgy Scholten, Miruna-Stefana Sorea]
 date: 2025-01-01
-doi: ""
+doi: "https://doi.org/10.1016/j.aam.2024.102777"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-02-11T16:09:14Z

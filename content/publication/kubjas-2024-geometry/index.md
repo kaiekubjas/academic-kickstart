@@ -39,7 +39,7 @@ links:
 #   icon: twitter
 
 url_pdf:
-url_code:
+url_code: "https://mathrepo.mis.mpg.de/PolynomialNeuralNetworks/"
 url_dataset:
 url_poster:
 url_project:
