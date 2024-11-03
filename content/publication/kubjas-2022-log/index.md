@@ -21,7 +21,7 @@ publishDate: 2022-06-11T16:42:00+03:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Accepted to *Bernoulli*"
 publication_short: ""
 
 abstract: ""
