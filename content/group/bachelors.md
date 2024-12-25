@@ -50,6 +50,8 @@ subtitle = ""
  css_class = ""
 +++
 
+- Niko Nordlund. Persistent Homology-based Biological Pattern Classification. 2024.
+- Emma Tonteri. Evaluating scoring models for the Implicit Association Test in the Finnish political polarization context. 2024. (Supervised by me, advised by Annika Kluge.)
 - Meeri Palokangas. Undirected Graphical Models for Discovering Statistical Dependencies in Continuous Air Pollutant and Weather Data. 2024. (Supervised by me, advised by Nataliia Kushnerchuk.)
 - Michael Yang. Homotopy and homology of topological spaces: their functoriality and relations between them. 2024. (Supervised by me, advised by Milo Orlich.)
 - Kasper Rantamäki. Zero-shot classifier based on robust ellipsoid optimization. 2023.

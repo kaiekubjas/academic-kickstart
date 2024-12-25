@@ -50,6 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
+- Aino Weckman. Optimising emission reduction actions in organisations’ climate work. 2024. (Supervised by me, advised by Maija Leino, thesis written in collaboration with UseLess Company.)
 - Joel Hakavuori. Nonpositive curvature, l^2-invariants and right-angled Coxeter groups. 2024. (Supervised by me, advised by Karim Adiprasito.)
 - Etna Lindy. Best nonnegative rank-2 matrix approximations. 2024. (Supervised by me, advised by Luca Sodomaco.)
 - Oula Kekäläinen. Generalization of Descartes’ rule of signs to multivariate polynomials with real exponents. 2024.
