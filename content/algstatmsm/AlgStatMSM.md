@@ -50,8 +50,8 @@ subtitle = ""
  css_class = ""
 +++
 
-This project is funded by University of Helsinki, Aalto University and KU Leuven Seed Fund. 
-This multidisciplinary project aims to advance novel applications of algebraic statistics within the framework of multistate models for complex time-to-event processes.
+This multidisciplinary project is funded by University of Helsinki, Aalto University and KU Leuven Seed Fund. 
+It aims to advance novel applications of algebraic statistics within the framework of multistate models for complex time-to-event processes.
 There will be two workshops organized as part of this project: one in Espoo/Helsinki in spring 2025 and one in Leuven in fall 2025.
 
 
