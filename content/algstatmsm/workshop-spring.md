@@ -72,7 +72,7 @@ This workshop will be held at Aalto University and the University of Helsinki fr
 
 14:30--15:15 [Hakon K. Gjessing](https://gjessing.page): Survival and event history analysis using multistate models as a framework
 
-19:00--22:00 Conference dinner
+19:00--22:00 Workshop dinner
 
 ### Thursday, April 3 (University of Helsinki)
 
