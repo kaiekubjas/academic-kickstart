@@ -25,9 +25,14 @@
   weight = 60
 
 [[main]]
-  name = "Courses"
+  name = "Teaching"
   url = "teaching"
   weight = 70
+
+[[main]]
+  name = "AlgStatMSM"
+  url = "algstatmsm"
+  weight = 75
 
 [[main]]
   name = "Contact"
