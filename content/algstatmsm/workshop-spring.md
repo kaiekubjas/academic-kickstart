@@ -94,7 +94,7 @@ This workshop will be held at Aalto University and the University of Helsinki fr
 
 ## Registration
 
-Registration will open soon.
+Registration will open soon. There is no registration fee.
 
 
 ## Contacts
