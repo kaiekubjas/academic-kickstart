@@ -66,11 +66,13 @@ This workshop will be held at Aalto University and the University of Helsinki fr
 
 11:00--11:45 [Marina Garrote-López](https://sites.google.com/view/marinagarrotelopez/): TBA
 
-12:15-13:15 Lunch
+12:15--13:15 Lunch
 
-13:30-14:15 [Hakon K. Gjessing](https://gjessing.page): Survival and event history analysis using multistate models as a framework
+13:30--14:15 [Hakon K. Gjessing](https://gjessing.page): Survival and event history analysis using multistate models as a framework
 
-14:30-15:15 [Hakon K. Gjessing](https://gjessing.page): Survival and event history analysis using multistate models as a framework
+14:30--15:15 [Hakon K. Gjessing](https://gjessing.page): Survival and event history analysis using multistate models as a framework
+
+19:00--22:00 Conference dinner
 
 ### Thursday, April 3 (University of Helsinki)
 
@@ -80,11 +82,11 @@ This workshop will be held at Aalto University and the University of Helsinki fr
 
 11:00--11:45 [Hakon K. Gjessing](https://gjessing.page): Survival and event history analysis using multistate models as a framework
 
-12:15-13:15 Lunch
+12:15--13:15 Lunch
 
-13:30-14:15 [Aida Maraj](https://sites.google.com/view/aidamaraj/home): Staged tree models
+13:30--14:15 [Aida Maraj](https://sites.google.com/view/aidamaraj/home): Staged tree models
 
-14:30-15:15 [Carlotta Langer](https://carlottalanger.github.io): TBA
+14:30--15:15 [Carlotta Langer](https://carlottalanger.github.io): TBA
 
 ### Friday, April 4 (Aalto University)
 
