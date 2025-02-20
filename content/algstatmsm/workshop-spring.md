@@ -94,7 +94,7 @@ This workshop will be held at Aalto University and the University of Helsinki fr
 
 ## Registration
 
-Registration will open soon. There is no registration fee.
+Please register for the workshop [here](https://elomake.helsinki.fi/lomakkeet/133936/lomake.html). There is no registration fee.
 
 
 ## Contacts
