@@ -62,15 +62,15 @@ This workshop will be held at Aalto University and the University of Helsinki fr
 
 [Room A127, Chemicum Building, Kumpula Campus, University of Helsinki](https://maps.app.goo.gl/okeU4n5HeMvrT8g39)
 
-10:00--10:45 [Marina Garrote-López](https://sites.google.com/view/marinagarrotelopez/): TBA
+10:00--10:45 [Marina Garrote-López](https://sites.google.com/view/marinagarrotelopez/):  Algebraic Statistical Models in Phylogenetics
 
-11:15--12:00 [Marina Garrote-López](https://sites.google.com/view/marinagarrotelopez/): TBA
+11:15--12:00 [Marina Garrote-López](https://sites.google.com/view/marinagarrotelopez/):  Algebraic Statistical Models in Phylogenetics
 
 12:15--13:15 Lunch break
 
 13:30--14:15 [Hakon K. Gjessing](https://gjessing.page): Survival and event history analysis using multistate models as a framework
 
-14:30--15:15 [Hakon K. Gjessing](https://gjessing.page): Survival and event history analysis using multistate models as a framework
+14:45--15:30 [Hakon K. Gjessing](https://gjessing.page): Survival and event history analysis using multistate models as a framework
 
 18:00--20:00 Workshop dinner (self-pay)
 
@@ -86,7 +86,7 @@ This workshop will be held at Aalto University and the University of Helsinki fr
 
 13:30--14:15 [Aida Maraj](https://sites.google.com/view/aidamaraj/home): Algebraic Approaches to Staged Tree Models and Maximum Likelihood Estimation
 
-14:30--15:15 [Carlotta Langer](https://carlottalanger.github.io): Algebraic Approaches to Staged Tree Models and Maximum Likelihood Estimation
+14:45--15:30 [Carlotta Langer](https://carlottalanger.github.io): Algebraic Approaches to Staged Tree Models and Maximum Likelihood Estimation
 
 ### Friday, April 4 (Aalto University)
 
