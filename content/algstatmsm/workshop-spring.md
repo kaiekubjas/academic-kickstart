@@ -56,7 +56,7 @@ This workshop will be held at Aalto University and the University of Helsinki fr
 
 ### Tuesday, April 1 (Aalto University)
 
-10:00--16:00 Introduction and discussion between researchers, short informal presentations (by invitation only)
+10:00--16:00 Introduction and discussion between researchers, short informal presentations
 
 ### Wednesday, April 2 (University of Helsinki)
 
@@ -94,7 +94,7 @@ This workshop will be held at Aalto University and the University of Helsinki fr
 
 ## Registration
 
-Please register for the workshop [here](https://elomake.helsinki.fi/lomakkeet/133936/lomake.html). There is no registration fee.
+Please register for the workshop [here](https://elomake.helsinki.fi/lomakkeet/133936/lomake.html). The registration deadline is March 23, 2025. There is no registration fee.
 
 
 ## Contacts
