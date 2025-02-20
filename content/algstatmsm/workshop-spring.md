@@ -84,9 +84,9 @@ This workshop will be held at Aalto University and the University of Helsinki fr
 
 12:15--13:15 Lunch break
 
-13:30--14:15 [Aida Maraj](https://sites.google.com/view/aidamaraj/home): Staged tree models
+13:30--14:15 [Aida Maraj](https://sites.google.com/view/aidamaraj/home): Algebraic Approaches to Staged Tree Models and Maximum Likelihood Estimation
 
-14:30--15:15 [Carlotta Langer](https://carlottalanger.github.io): TBA
+14:30--15:15 [Carlotta Langer](https://carlottalanger.github.io): Algebraic Approaches to Staged Tree Models and Maximum Likelihood Estimation
 
 ### Friday, April 4 (Aalto University)
 
