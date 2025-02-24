@@ -3,8 +3,8 @@
 
 title: "Geometry of Polynomial Neural Networks"
 authors: [Kaie Kubjas, Jiayi Li, Maximilian Wiesmann]
-date: 2024-02-01
-doi: ""
+date: 2024-12-03
+doi: "https://doi.org/10.2140/astat.2024.15.295"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-02-11T16:09:14Z
@@ -13,10 +13,10 @@ publishDate: 2024-02-11T16:09:14Z
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Accepted to *Algebraic Statistics*"
+publication: "*Algebraic Statistics*, 15(2), 295-328"
 publication_short: ""
 
 abstract: ""

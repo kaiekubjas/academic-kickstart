@@ -16,7 +16,7 @@ publishDate: 2024-02-11T16:09:14Z
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Accepted to *Journal of Mathematical Biology*"
 publication_short: ""
 
 abstract: ""
