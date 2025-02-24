@@ -49,7 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- Algebra and Discrete Mathematics Seminar at Aalto takes place on Tuesdays at 15:15. See the seminar [website](https://sites.google.com/view/algedismathaaltoseminar/home-page) for the upcoming talks.
+- Algebra and Discrete Mathematics Seminar at Aalto takes place on Thursdays at 14:15. See the seminar [website](https://sites.google.com/view/algedismathaaltoseminar/home-page) for the upcoming talks.
 - Together with Frank Sottile, Teresa Krick and Claudiu Raicu, I am a guest editor for JSC Special Issue for MEGA 2024. The call for papers with the deadline on October 31, 2024 is [here](https://mega.sciencesconf.org/resource/page/id/15).
 - Since 2025 I am a member of the editorial board of [Annales Fennici Mathematici](https://afm.journal.fi).
 - Since 2024 I am a member of the editorial board of [SIAM Journal on Applied Algebra and Geometry](https://www.siam.org/publications/journals/siam-journal-on-applied-algebra-and-geometry-siaga).
