@@ -41,7 +41,7 @@ education:
 social:
 - icon: globe
   icon_pack: fas
-  link: https://sites.google.com/view/nataliiakushnerchuk
+  link: https://kushnerchuk.com/
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
