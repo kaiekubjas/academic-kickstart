@@ -55,8 +55,25 @@ This workshop will be held at Aalto University and the University of Helsinki fr
 ## Tentative program
 
 ### Tuesday, April 1 (Aalto University)
+[Room M233 (M2), Otakaari 1, Espoo](https://maps.app.goo.gl/sB5B9YvDvyvvX5eA7)
 
-10:00--16:00 Introduction and discussion between researchers, short informal presentations
+We have 15-minutes What is ...? talks that are introductory talks introducing basic notions related to the project.
+
+10:00 Kaie Kubjas: What is algebraic geometry?
+
+10:30 Sangita Kulathinal: What is survival analysis?
+
+11:00 Fatemeh Mohammadi: What is algebraic statistics?
+
+11:30 Joel Siurua: What are compartmental models for infectious disease modelling?
+
+12:00-13:00 Lunch Break
+
+13:00 Nataliia Kushnerchuk: What is a graphical model?
+
+13:30 Etienne Sebag: What are hidden Markov models and how they are used for longitudinal data??
+
+14:00--16:00 Discussion and collaboration 
 
 ### Wednesday, April 2 (University of Helsinki)
 
@@ -89,6 +106,8 @@ This workshop will be held at Aalto University and the University of Helsinki fr
 14:45--15:30 [Carlotta Langer](https://carlottalanger.github.io): Algebraic Approaches to Staged Tree Models and Maximum Likelihood Estimation
 
 ### Friday, April 4 (Aalto University)
+
+[Room M235a (Tuuma), Otakaari 1, Espoo](https://maps.app.goo.gl/sB5B9YvDvyvvX5eA7)
 
 10:00--16:00 Brainstorming session on future research ideas on the intersection of algebraic statistics and survival and event history analysis (by invitation only)
 
