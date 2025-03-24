@@ -71,7 +71,7 @@ We have 15-minutes What is ...? talks that are introductory talks introducing ba
 
 13:00 Nataliia Kushnerchuk: What is a graphical model?
 
-13:30 Etienne Sebag: What are hidden Markov models and how they are used for longitudinal data??
+13:30 Etienne Sebag: What are hidden Markov models and how they are used for longitudinal data?
 
 14:00--16:00 Discussion and collaboration 
 
