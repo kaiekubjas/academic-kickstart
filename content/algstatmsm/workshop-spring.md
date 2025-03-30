@@ -61,15 +61,15 @@ We have 15-minutes What is ...? talks that are introductory talks introducing ba
 
 10:00 Kaie Kubjas: What is algebraic geometry?
 
-10:30 Sangita Kulathinal: What is survival analysis?
+10:30 Nataliia Kushnerchuk: What is a graphical model?
 
-11:00 Fatemeh Mohammadi: What is algebraic statistics?
+11:00 Sangita Kulathinal: What is survival analysis?
 
-11:30 Joel Siurua: What are compartmental models for infectious disease modelling?
+11:30 Fatemeh Mohammadi: What is algebraic statistics?
 
 12:00-13:00 Lunch Break
 
-13:00 Nataliia Kushnerchuk: What is a graphical model?
+13:00 Joel Siurua: What are compartmental models for infectious disease modelling?
 
 13:30 Etienne Sebag: What are hidden Markov models and how they are used for longitudinal data?
 
@@ -89,7 +89,7 @@ We have 15-minutes What is ...? talks that are introductory talks introducing ba
 
 14:45--15:30 [Hakon K. Gjessing](https://gjessing.page): Survival and event history analysis using multistate models as a framework
 
-18:00--20:00 Workshop dinner (self-pay)
+18:00--20:00 Workshop dinner at [Fat Lizard Töölö](https://ravintolafatlizard.fi/en/toolo) (self-pay)
 
 ### Thursday, April 3 (University of Helsinki)
 
