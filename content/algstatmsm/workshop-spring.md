@@ -105,11 +105,11 @@ We have 15-minutes What is ...? talks that are introductory talks introducing ba
 
 14:45--15:30 [Carlotta Langer](https://carlottalanger.github.io): Algebraic Approaches to Staged Tree Models and Maximum Likelihood Estimation
 
-### Friday, April 4 (Aalto University)
+### Friday, April 4 (University of Helsinki)
 
-[Room M235a (Tuuma), Otakaari 1, Espoo](https://maps.app.goo.gl/sB5B9YvDvyvvX5eA7)
+[Room D340, Exactum Building, Kumpula Campus, University of Helsinki](https://maps.app.goo.gl/UuwBomqHFUdEBjgh8)
 
-10:00--16:00 Brainstorming session on future research ideas on the intersection of algebraic statistics and survival and event history analysis (by invitation only)
+10:00--13:00 Brainstorming session on future research ideas on the intersection of algebraic statistics and survival and event history analysis (by invitation only)
 
 ## Registration
 
