@@ -50,6 +50,8 @@ subtitle = ""
  css_class = ""
 +++
 
+- Henrik Aalto. The Sylow Theorems and Classification of Finite Groups. 2025.
+- Mevlüde Alizade. EM Algorithm and Nonnegative Matrix Factorization. 2024. (Thesis written in Ankara University.)
 - Niko Nordlund. Persistent Homology-based Biological Pattern Classification. 2024.
 - Emma Tonteri. Evaluating scoring models for the Implicit Association Test in the Finnish political polarization context. 2024. (Supervised by me, advised by Annika Kluge.)
 - Meeri Palokangas. Undirected Graphical Models for Discovering Statistical Dependencies in Continuous Air Pollutant and Weather Data. 2024. (Supervised by me, advised by Nataliia Kushnerchuk.)
