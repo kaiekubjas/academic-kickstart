@@ -3,7 +3,7 @@
 
 title: "Single-cell 3D genome reconstruction in the haploid setting using rigidity theory"
 authors: [Sean Dewar, Georg Grasegger, Kaie Kubjas, Fatemeh Mohammadi, Anthony Nixon]
-date: 2024-07-15
+date: 2025-03-29
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,10 +13,10 @@ publishDate: 2024-02-11T16:09:14Z
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Accepted to *Journal of Mathematical Biology*"
+publication: "*Journal of Mathematical Biology*, 90, article number 45."
 publication_short: ""
 
 abstract: ""
