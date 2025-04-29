@@ -55,6 +55,7 @@ We run a monthly online series within this project. Everyone is welcome to join!
 ## Talks 
 
 ### Monday 05 May 2025,   17:00 (EEST) / 16:00 (CEST)
-Sarah Lumpp (Technical University of Munich)
+[Sarah Lumpp](https://zuseschoolrelai.de/people/scientists/sarah-lumpp/) (Technical University of Munich)
+
 [Zoom link](https://aalto.zoom.us/j/61505481430)
 
