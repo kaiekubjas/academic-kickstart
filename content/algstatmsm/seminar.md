@@ -55,7 +55,11 @@ We run a monthly online series within this project. Everyone is welcome to join!
 ## Talks 
 
 ### Monday 05 May 2025,   17:00 (EEST) / 16:00 (CEST)
-[Sarah Lumpp](https://zuseschoolrelai.de/people/scientists/sarah-lumpp/) (Technical University of Munich)
+Speaker: [Sarah Lumpp](https://zuseschoolrelai.de/people/scientists/sarah-lumpp/) (Technical University of Munich)
 
-[Zoom link](https://aalto.zoom.us/j/61505481430)
+Title: Introduction to graphical continuous Lyapunov models
+
+Abstract: Stationary distributions of multivariate diffusion processes have recently been proposed as probabilistic models of causal systems in statistics and machine learning. By assuming each observation to arise as a one-time cross-sectional snapshot of a temporal process in equilibrium, they allow to model dependence structures that may include feedback loops. Specifically, the graphical continuous Lyapunov model consists of steady-state distributions of multivariate Ornstein-Uhlenbeck processes where sparsity assumptions on the drift matrices are represented with a directed graph. These distributions are Gaussian with covariance matrices that are parametrized as solutions of the continuous Lyapunov equation. In this talk, I will give an introduction to the model with a focus on the conditional independence structure as well as identifiability of the drift parameters in specific cases.
+
+Zoom link: [https://aalto.zoom.us/j/61505481430](https://aalto.zoom.us/j/61505481430)
 
