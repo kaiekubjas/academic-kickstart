@@ -10,12 +10,13 @@ authors:
 - Luca Sodomaco
 tags: []
 categories: []
-date: '2021-05-18'
+date: '2025-05-27'
 lastmod: 
 featured: false
 draft: false
 url_pdf: 
 url_code: "https://github.com/olgakuznetsova/algebraic-degree-of-optimization"
+doi: "https://doi.org/10.1007/s44426-025-00003-1"
 
 
 links:
@@ -38,12 +39,12 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- 3
+- 2
 abstract: 'We study an optimization problem with the feasible set being a real algebraic variety $X$ and whose parametric objective function $f_u$ is gradient-solvable with respect to the parametric data $u$.
 This class of problems includes Euclidean distance optimization as well as maximum likelihood optimization.
 For these particular optimization problems, a prominent role is played by the ED and ML correspondence, respectively.
 To our generalized optimization problem we attach an optimization correspondence and show that it is equidimensional.
 This leads to the notion of algebraic degree of optimization on $X$.
 We apply these results to $p$-norm optimization, and define the $p$-norm distance degree of $X$, which coincides with the ED degree of $X$ for $p=2$. Finally, we derive a formula for the $p$-norm distance degree of $X$ as a weighted sum of the polar classes of $X$ under suitable transversality conditions.'
-publication: "Accepted to *Acta Universitatis Sapientiae, Mathematica (Special Issue on Metric Algebraic Geometry)*"
+publication: "*Acta Universitatis Sapientiae, Mathematica (Special Issue on Metric Algebraic Geometry)*, volume 17, article number 3"
 ---
