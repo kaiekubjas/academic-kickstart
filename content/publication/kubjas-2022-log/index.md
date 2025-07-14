@@ -8,7 +8,7 @@ authors:
 - Elina Robeva
 - Pardis Semnani
 - Luca Sodomaco
-date: 2025-11-1
+date: 2025-11-01
 doi: "https://doi.org/10.3150/24-BEJ1831"
 
 # Schedule page publish date (NOT publication's date).
