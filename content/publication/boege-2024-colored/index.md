@@ -16,7 +16,7 @@ publishDate: 2024-05-27
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Accepted to *Journal of the Royal Statistical Society: Series B*"
 publication_short: ""
 
 abstract: ""
