@@ -16,7 +16,7 @@ links:
 - name: arXiv
   url: "https://arxiv.org/abs/2601.07658"
 
-url_code: " https://github.com/kaiekubjas/geometry-of-low-nonnegative-rank-matrix-completion"
+url_code: "https://github.com/kaiekubjas/geometry-of-low-nonnegative-rank-matrix-completion"
 
 image:
   caption: ''

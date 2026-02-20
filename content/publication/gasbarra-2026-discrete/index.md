@@ -4,7 +4,7 @@
 title: "Discrete-time, discrete-state multistate Markov models from the perspective of algebraic statistics"
 authors: [Dario Gasbarra, Kaie Kubjas, Sangita Kulathinal, Nataliia Kushnerchuk, Fatemeh Mohammadi, Etienne Sebag]
 date: 2026-02-10
-doi: "https://doi.org/10.2140/astat.2024.15.295"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-02-11T16:09:14Z

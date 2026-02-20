@@ -49,13 +49,12 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- Algebra and Discrete Mathematics Seminar at Aalto takes place on Thursdays at 14:15. See the seminar [website](https://sites.google.com/view/algedismathaaltoseminar/home-page) for the upcoming talks.
-- Together with Sangita Kulathinal and Fatemeh Mohammadi, we are organizing a workshop on [Algebraic Statistics and the Study of Multistate Models](https://www.kaiekubjas.com/algstatmsm/) at Aalto University and University of Helsinki on April 1-4, 2025.
-- Together with Frank Sottile, Teresa Krick and Claudiu Raicu, I am a guest editor for JSC Special Issue for MEGA 2024. The call for papers with the deadline on October 31, 2024 is [here](https://mega.sciencesconf.org/resource/page/id/15).
+- Algebra, Geometry and Combinatorics Seminar at Aalto takes place on Mondays at 13:15. See the seminar [website](https://math.aalto.fi/en/research/discrete/seminars/agc/) for the upcoming talks.
 - Since 2025 I am a member of the editorial board of [Annales Fennici Mathematici](https://afm.journal.fi).
 - Since 2024 I am a member of the editorial board of [SIAM Journal on Applied Algebra and Geometry](https://www.siam.org/publications/journals/siam-journal-on-applied-algebra-and-geometry-siaga).
 - Since 2022 I am a member of the editorial board of [Journal of Symbolic Computation](https://www.sciencedirect.com/journal/journal-of-symbolic-computation).
 - Since 2021 I am a member of the advisory board of [MEGA: Effective Methods in Algebraic Geometry](https://mega.sciencesconf.org/resource/page/id/6).
+- Together with Frank Sottile, Teresa Krick and Claudiu Raicu, I was a guest editor for [JSC Special Issue for MEGA 2024](https://www.sciencedirect.com/special-issue/10FTL4JFZJ3).
 - Together with Carlos D'Andrea and Fatemeh Mohammadi, I was a guest editor for [JSC Special Issue for MEGA 2021](https://www.sciencedirect.com/journal/journal-of-symbolic-computation/special-issue/10NXHCK8LJ2).
 
 
