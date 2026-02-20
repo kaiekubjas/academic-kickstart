@@ -22,7 +22,7 @@ bio: My research interests include nonlinear algebra, algebraic statistics, matr
 
 interests:
 - Algebraic statistics
-- Nonlinear algebra in biology
+- Algebra in life sciences
 - Structured matrix and tensor decompositions
 
 education:
