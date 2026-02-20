@@ -51,5 +51,5 @@ subtitle = ""
 +++
 
 There are various fellowship opportunities for postdoctoral researchers. If you are interested in applying for one of the fellowship to work with me, please check out the following opportunities and get in touch with me:
-- [Academy of Finland Research Fellow funding](https://www.aka.fi/en/research-funding/funding-opportunities-at-a-glance/funding-for-individual-researchers/)
+- [Research Council of Finland Academy Research Fellowship](https://www.aka.fi/en/research-funding/funding-opportunities2/spark-funding/academy-research-fellowship/) (2-7 years after PhD)
 - [Marie Skłodowska-Curie Postdoctoral Fellowships](https://ec.europa.eu/research/mariecurieactions/actions/postdoctoral-fellowships)
