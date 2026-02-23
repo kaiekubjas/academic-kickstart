@@ -49,7 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- Algebra, Geometry and Combinatorics Seminar at Aalto takes place on Mondays at 13:15. See the seminar [website](https://math.aalto.fi/en/research/discrete/seminars/agc/) for the upcoming talks.
+- Algebra, Geometry and Combinatorics Seminar at Aalto takes place on Mondays at 14:15. See the seminar [website](https://math.aalto.fi/en/research/discrete/seminars/agc/) for the upcoming talks.
 - Since 2025 I am a member of the editorial board of [Annales Fennici Mathematici](https://afm.journal.fi).
 - Since 2024 I am a member of the editorial board of [SIAM Journal on Applied Algebra and Geometry](https://www.siam.org/publications/journals/siam-journal-on-applied-algebra-and-geometry-siaga).
 - Since 2022 I am a member of the editorial board of [Journal of Symbolic Computation](https://www.sciencedirect.com/journal/journal-of-symbolic-computation).
