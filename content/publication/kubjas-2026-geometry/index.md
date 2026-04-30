@@ -29,5 +29,5 @@ publication_types:
 - 3
 
 abstract: ''
-publication: ''
+publication: 'Accepted to Linear Algebra and Its Applications'
 ---
