@@ -20,7 +20,7 @@ publishDate: 2020-11-02T21:23:12+02:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: '*Linear Algebra and its Applications*, 641:67--97'
+publication: '*Linear Algebra and Its Applications*, 641:67--97'
 publication_short: ""
 
 abstract: "Low-rank approximation with zeros aims to find a matrix of fixed rank and with a fixed zero pattern that minimizes the Euclidean distance to a given data matrix. We study the critical points of this optimization problem using algebraic tools. In particular, we describe special linear, affine and determinantal relations satisfied by the critical points. We also investigate the number of critical points and how the number is related to the complexity of nonnegative matrix factorization problem."
