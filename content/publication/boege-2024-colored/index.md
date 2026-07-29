@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Colored Gaussian DAG models"
+title: "Colored Gaussian directed acyclic graphical models"
 authors: [Tobias Boege, Kaie Kubjas, Pratik Misra, Liam Solus]
-date: 2024-05-27
-doi: ""
+date: 2026-07-01
+doi: "https://doi.org/10.1093/jrsssb/qkaf068"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-05-27
@@ -13,10 +13,10 @@ publishDate: 2024-05-27
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Accepted to *Journal of the Royal Statistical Society: Series B*"
+publication: "*Journal of the Royal Statistical Society: Series B*, 88(3): 819–875"
 publication_short: ""
 
 abstract: ""
