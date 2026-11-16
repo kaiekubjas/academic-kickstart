@@ -16,7 +16,7 @@ publishDate: 2024-10-24T16:09:14Z
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Accepted to *Fields Communications Volume on Geometric Constraints and Rigidity:  Problems, Progress, Connections*"
 publication_short: ""
 
 abstract: ""
